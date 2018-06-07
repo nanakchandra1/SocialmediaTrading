@@ -1,0 +1,261 @@
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "1dE-BG-A2C"; */
+"1dE-BG-A2C.text" = "Home";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "1ue-JC-dlF"; */
+"1ue-JC-dlF.text" = "Mohammad Ali";
+
+/* Class = "UILabel"; text = "Amount : $12"; ObjectID = "3Ao-8c-7Yh"; */
+"3Ao-8c-7Yh.text" = "Amount : $12";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3JZ-Up-czU"; */
+"3JZ-Up-czU.text" = "Label";
+
+/* Class = "UILabel"; text = "Expactation:"; ObjectID = "3OO-93-nEk"; */
+"3OO-93-nEk.text" = "Expactation:";
+
+/* Class = "UILabel"; text = "01"; ObjectID = "3ac-7a-Ylv"; */
+"3ac-7a-Ylv.text" = "01";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "3eD-SE-xUA"; */
+"3eD-SE-xUA.text" = "100";
+
+/* Class = "UILabel"; text = "Reply"; ObjectID = "3kC-3Y-X8m"; */
+"3kC-3Y-X8m.text" = "Reply";
+
+/* Class = "UIButton"; normalTitle = "TIMELINE"; ObjectID = "4JD-jd-azD"; */
+"4JD-jd-azD.normalTitle" = "TIMELINE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4lS-8U-gxS"; */
+"4lS-8U-gxS.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "6R7-gH-rDg"; */
+"6R7-gH-rDg.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "SABIC"; ObjectID = "8J4-bb-EKP"; */
+"8J4-bb-EKP.text" = "SABIC";
+
+/* Class = "UILabel"; text = "Filter for time"; ObjectID = "AII-cm-1lY"; */
+"AII-cm-1lY.text" = "Filter for time";
+
+/* Class = "UILabel"; text = "4 hrs ago"; ObjectID = "BW2-pH-z4m"; */
+"BW2-pH-z4m.text" = "4 hrs ago";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "C0Y-Sr-skh"; */
+"C0Y-Sr-skh.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Block User"; ObjectID = "CfY-Fr-iDz"; */
+"CfY-Fr-iDz.normalTitle" = "Block User";
+
+/* Class = "UILabel"; text = "SABIC"; ObjectID = "Dji-HB-iH3"; */
+"Dji-HB-iH3.text" = "SABIC";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "DvY-Np-hAt"; */
+"DvY-Np-hAt.normalTitle" = "DONE";
+
+/* Class = "UIButton"; normalTitle = "Report Post"; ObjectID = "ESv-uI-vYD"; */
+"ESv-uI-vYD.normalTitle" = "Report Post";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "Eau-PQ-UT5"; */
+"Eau-PQ-UT5.text" = "General";
+
+/* Class = "UILabel"; text = "Wrong"; ObjectID = "Ezw-7A-xui"; */
+"Ezw-7A-xui.text" = "Wrong";
+
+/* Class = "UILabel"; text = "Send"; ObjectID = "Ffh-V9-mmm"; */
+"Ffh-V9-mmm.text" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "H3X-Od-u4O"; */
+"H3X-Od-u4O.normalTitle" = "Buy";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "HRw-nm-ybO"; */
+"HRw-nm-ybO.text" = "Comment";
+
+/* Class = "UITextField"; placeholder = "Search Stock or People"; ObjectID = "Hdx-cR-hVD"; */
+"Hdx-cR-hVD.placeholder" = "Search Stock or People";
+
+/* Class = "UIButton"; normalTitle = "Year"; ObjectID = "IYW-HN-zR6"; */
+"IYW-HN-zR6.normalTitle" = "Year";
+
+/* Class = "UILabel"; text = "Conditions Expectation"; ObjectID = "J8O-zN-VXg"; */
+"J8O-zN-VXg.text" = "Conditions Expectation";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "JeC-2Y-LwR"; */
+"JeC-2Y-LwR.text" = "Mohammad Ali";
+
+/* Class = "UIButton"; normalTitle = "Reply"; ObjectID = "Jqq-Za-uA8"; */
+"Jqq-Za-uA8.normalTitle" = "Reply";
+
+/* Class = "UIButton"; normalTitle = "Stock"; ObjectID = "KPG-tW-tbL"; */
+"KPG-tW-tbL.normalTitle" = "Stock";
+
+/* Class = "UIButton"; normalTitle = "Sell"; ObjectID = "OCw-ST-QWD"; */
+"OCw-ST-QWD.normalTitle" = "Sell";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "RkY-Aj-3KL"; */
+"RkY-Aj-3KL.normalTitle" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "SEw-Uw-gal"; */
+"SEw-Uw-gal.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "TFS-N0-cGM"; */
+"TFS-N0-cGM.text" = "Mohammad Ali";
+
+/* Class = "UIButton"; normalTitle = "TRADE"; ObjectID = "UCt-F5-Deg"; */
+"UCt-F5-Deg.normalTitle" = "TRADE";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "UNy-8D-TWA"; */
+"UNy-8D-TWA.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "Status of expectation"; ObjectID = "WRm-hV-3Z6"; */
+"WRm-hV-3Z6.text" = "Status of expectation";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "YC3-Bn-p5j"; */
+"YC3-Bn-p5j.text" = "or";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "YIg-nK-Gx2"; */
+"YIg-nK-Gx2.text" = "or";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "YRW-nR-CSB"; */
+"YRW-nR-CSB.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Change Stop Loss"; ObjectID = "ZCx-Zy-x8J"; */
+"ZCx-Zy-x8J.normalTitle" = "Change Stop Loss";
+
+/* Class = "UITextField"; placeholder = "Search Stock"; ObjectID = "ZT3-dW-fP8"; */
+"ZT3-dW-fP8.placeholder" = "Search Stock";
+
+/* Class = "UIButton"; normalTitle = "By Profit"; ObjectID = "aMS-OY-Ab3"; */
+"aMS-OY-Ab3.normalTitle" = "By Profit";
+
+/* Class = "UILabel"; text = "Transfer From Tradder To Personal Accopunt"; ObjectID = "aUT-Sw-meW"; */
+"aUT-Sw-meW.text" = "Transfer From Tradder To Personal Accopunt";
+
+/* Class = "UIButton"; normalTitle = "Unfollow User"; ObjectID = "apS-Sb-7Qz"; */
+"apS-Sb-7Qz.normalTitle" = "Unfollow User";
+
+/* Class = "UIButton"; normalTitle = "Month"; ObjectID = "aym-pi-00l"; */
+"aym-pi-00l.normalTitle" = "Month";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "b6y-tC-xKP"; */
+"b6y-tC-xKP.normalTitle" = "Follow";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "bLZ-mr-kgb"; */
+"bLZ-mr-kgb.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "bth-8h-MAG"; */
+"bth-8h-MAG.text" = "Mohammad Ali";
+
+/* Class = "UILabel"; text = "22.6%"; ObjectID = "d54-oi-UNJ"; */
+"d54-oi-UNJ.text" = "22.6%";
+
+/* Class = "UILabel"; text = "12/02/2017 04:45:09"; ObjectID = "dcc-7C-ElH"; */
+"dcc-7C-ElH.text" = "12/02/2017 04:45:09";
+
+/* Class = "UILabel"; text = "Best user for"; ObjectID = "dci-pZ-fvz"; */
+"dci-pZ-fvz.text" = "Best user for";
+
+/* Class = "UITextField"; placeholder = "1"; ObjectID = "dsy-DG-2TJ"; */
+"dsy-DG-2TJ.placeholder" = "1";
+
+/* Class = "UIButton"; normalTitle = "Short Term"; ObjectID = "e7C-q7-aMS"; */
+"e7C-q7-aMS.normalTitle" = "Short Term";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "eo1-UN-Guk"; */
+"eo1-UN-Guk.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "Hide Post"; ObjectID = "fog-cV-S5t"; */
+"fog-cV-S5t.normalTitle" = "Hide Post";
+
+/* Class = "UILabel"; text = "4 hrs ago"; ObjectID = "ftd-4p-M2Y"; */
+"ftd-4p-M2Y.text" = "4 hrs ago";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "gCH-nt-lPJ"; */
+"gCH-nt-lPJ.text" = "10";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "gcM-tU-aGD"; */
+"gcM-tU-aGD.text" = "Mohammad Ali";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "gek-U0-Zrg"; */
+"gek-U0-Zrg.text" = "or";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "gvS-0L-oUE"; */
+"gvS-0L-oUE.text" = "10";
+
+/* Class = "UILabel"; text = "My Donation List"; ObjectID = "hz0-hj-caH"; */
+"hz0-hj-caH.text" = "My Donation List";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iky-Ka-WTF"; */
+"iky-Ka-WTF.text" = "Label";
+
+/* Class = "UILabel"; text = "15999 Folllowers"; ObjectID = "ipE-VU-5E3"; */
+"ipE-VU-5E3.text" = "15999 Folllowers";
+
+/* Class = "UIButton"; normalTitle = "عربي"; ObjectID = "lNK-iC-4Oj"; */
+"lNK-iC-4Oj.normalTitle" = "عربي";
+
+/* Class = "UIButton"; normalTitle = "RANKING"; ObjectID = "m3n-qv-RnQ"; */
+"m3n-qv-RnQ.normalTitle" = "RANKING";
+
+/* Class = "UILabel"; text = "15999 Folllowers"; ObjectID = "mGL-Vc-SQI"; */
+"mGL-Vc-SQI.text" = "15999 Folllowers";
+
+/* Class = "UIButton"; normalTitle = "Forex"; ObjectID = "meK-YM-kKg"; */
+"meK-YM-kKg.normalTitle" = "Forex";
+
+/* Class = "UITextField"; placeholder = "Week"; ObjectID = "o5m-Fo-7Pn"; */
+"o5m-Fo-7Pn.placeholder" = "Week";
+
+/* Class = "UILabel"; text = "15554 Followers"; ObjectID = "p9T-8c-HjP"; */
+"p9T-8c-HjP.text" = "15554 Followers";
+
+/* Class = "UILabel"; text = "3.5"; ObjectID = "qUr-T8-eJ3"; */
+"qUr-T8-eJ3.text" = "3.5";
+
+/* Class = "UILabel"; text = "3.5"; ObjectID = "r04-dN-qPf"; */
+"r04-dN-qPf.text" = "3.5";
+
+/* Class = "UIButton"; normalTitle = "Week"; ObjectID = "r7U-ZF-dra"; */
+"r7U-ZF-dra.normalTitle" = "Week";
+
+/* Class = "UIButton"; normalTitle = "Chane Take Profit Price"; ObjectID = "r8a-di-CUZ"; */
+"r8a-di-CUZ.normalTitle" = "Chane Take Profit Price";
+
+/* Class = "UILabel"; text = "Right"; ObjectID = "rRG-Wi-vBE"; */
+"rRG-Wi-vBE.text" = "Right";
+
+/* Class = "UILabel"; text = "Add New Post"; ObjectID = "rTy-oe-l1o"; */
+"rTy-oe-l1o.text" = "Add New Post";
+
+/* Class = "UILabel"; text = "SR"; ObjectID = "tj8-wF-7L0"; */
+"tj8-wF-7L0.text" = "SR";
+
+/* Class = "UILabel"; text = "4 hrs ago"; ObjectID = "uk6-rm-qAx"; */
+"uk6-rm-qAx.text" = "4 hrs ago";
+
+/* Class = "UIButton"; normalTitle = "Close Order"; ObjectID = "vy6-8f-WyF"; */
+"vy6-8f-WyF.normalTitle" = "Close Order";
+
+/* Class = "UILabel"; text = "Change Stop Loss:"; ObjectID = "wBt-bd-C2Q"; */
+"wBt-bd-C2Q.text" = "Change Stop Loss:";
+
+/* Class = "UILabel"; text = "Profit & Lost  "; ObjectID = "whs-mP-iS0"; */
+"whs-mP-iS0.text" = "Profit & Lost  ";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "y4c-gI-n0R"; */
+"y4c-gI-n0R.text" = "Mohammad Ali";
+
+/* Class = "UIButton"; normalTitle = "Long Term"; ObjectID = "yeX-li-27N"; */
+"yeX-li-27N.normalTitle" = "Long Term";
+
+/* Class = "UIButton"; normalTitle = "By Correct Forecast"; ObjectID = "ygU-kn-jjP"; */
+"ygU-kn-jjP.normalTitle" = "By Correct Forecast";
+
+/* Class = "UILabel"; text = "Lorem ipsum is simply dummy text of the print and typesetting industry."; ObjectID = "z0t-ab-R13"; */
+"z0t-ab-R13.text" = "Lorem ipsum is simply dummy text of the print and typesetting industry.";
+
+/* Class = "UILabel"; text = "Expectation"; ObjectID = "z6A-eI-MpH"; */
+"z6A-eI-MpH.text" = "Expectation";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "zdW-vE-KB7"; */
+"zdW-vE-KB7.normalTitle" = "English";

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Black.ttf">
+            <string>Roboto-Black</string>
+        </array>
+        <array key="Roboto-Medium.ttf">
+            <string>Roboto-Medium</string>
+        </array>
+        <array key="RobotoCondensed-Regular.ttf">
+            <string>RobotoCondensed-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="VideosAddCell" rowHeight="282" id="KGk-i7-Jjw" customClass="VideosAddCell" customModule="Mutadawel" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="282"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="281.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Uf1-YJ-u4V">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="271.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sponsored" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fqj-UE-Wnc">
+                                <rect key="frame" x="10" y="20" width="73" height="18"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="18" id="hLv-hn-Psp"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="15"/>
+                                <color key="textColor" red="0.1137254902" green="0.56862745100000001" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="New advertisement" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fhj-VJ-bA2" customClass="KILabel">
+                                <rect key="frame" x="10" y="46" width="394" height="14.5"/>
+                                <fontDescription key="fontDescription" name="RobotoCondensed-Regular" family="Roboto Condensed" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sponsored" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LDU-QK-Xv7">
+                                <rect key="frame" x="344" y="0.0" width="70" height="20"/>
+                                <color key="backgroundColor" red="0.67450980390000004" green="0.078431372550000003" blue="0.3411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="Htt-GT-Mc4"/>
+                                    <constraint firstAttribute="width" constant="70" id="uFm-wG-VAr"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Roboto-Black" family="Roboto" pointSize="12"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dIw-Np-3qB">
+                                <rect key="frame" x="-10" y="104" width="424" height="167"/>
+                                <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES"/>
+                            </webView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem Ipsum is simply dummy text Lorem Ipsum is simply text. Lorem Ipsum is simply dummy text Lorem Ipsum is simply text" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="igC-Mb-86B" customClass="KILabel">
+                                <rect key="frame" x="10" y="65.5" width="394" height="28.5"/>
+                                <fontDescription key="fontDescription" name="RobotoCondensed-Regular" family="Roboto Condensed" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="dIw-Np-3qB" firstAttribute="leading" secondItem="Uf1-YJ-u4V" secondAttribute="leading" constant="-10" id="160-9N-42S"/>
+                            <constraint firstItem="igC-Mb-86B" firstAttribute="trailing" secondItem="fhj-VJ-bA2" secondAttribute="trailing" id="1WF-ta-3aZ"/>
+                            <constraint firstAttribute="trailing" secondItem="dIw-Np-3qB" secondAttribute="trailing" id="4cf-pd-GGH"/>
+                            <constraint firstItem="fhj-VJ-bA2" firstAttribute="leading" secondItem="Fqj-UE-Wnc" secondAttribute="leading" id="7Sn-GS-Znn"/>
+                            <constraint firstItem="igC-Mb-86B" firstAttribute="leading" secondItem="fhj-VJ-bA2" secondAttribute="leading" id="FHa-99-vbZ"/>
+                            <constraint firstAttribute="trailing" secondItem="fhj-VJ-bA2" secondAttribute="trailing" constant="10" id="OJL-Xw-p8R"/>
+                            <constraint firstItem="fhj-VJ-bA2" firstAttribute="top" secondItem="Fqj-UE-Wnc" secondAttribute="bottom" constant="8" id="PAX-BK-Yv2"/>
+                            <constraint firstItem="dIw-Np-3qB" firstAttribute="top" secondItem="igC-Mb-86B" secondAttribute="bottom" constant="10" id="Www-4M-PYN"/>
+                            <constraint firstAttribute="bottom" secondItem="dIw-Np-3qB" secondAttribute="bottom" id="ivs-Wu-Lzy"/>
+                            <constraint firstAttribute="trailing" secondItem="LDU-QK-Xv7" secondAttribute="trailing" id="jQJ-Ts-zsN"/>
+                            <constraint firstItem="Fqj-UE-Wnc" firstAttribute="top" secondItem="Uf1-YJ-u4V" secondAttribute="top" constant="20" id="mJY-qd-bLh"/>
+                            <constraint firstItem="igC-Mb-86B" firstAttribute="top" secondItem="fhj-VJ-bA2" secondAttribute="bottom" constant="5" id="mOz-Ii-T1e"/>
+                            <constraint firstItem="Fqj-UE-Wnc" firstAttribute="leading" secondItem="Uf1-YJ-u4V" secondAttribute="leading" constant="10" id="nbi-l3-1Ji"/>
+                            <constraint firstItem="LDU-QK-Xv7" firstAttribute="top" secondItem="Uf1-YJ-u4V" secondAttribute="top" id="o0X-Gm-yhI"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.89009910820000004" green="0.89025193449999995" blue="0.89008945230000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="Uf1-YJ-u4V" secondAttribute="trailing" id="NZr-De-q0N"/>
+                    <constraint firstItem="Uf1-YJ-u4V" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="XPV-MJ-IRu"/>
+                    <constraint firstAttribute="bottom" secondItem="Uf1-YJ-u4V" secondAttribute="bottom" constant="10" id="jPS-mC-wPN"/>
+                    <constraint firstItem="Uf1-YJ-u4V" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="qcR-Bg-oRz"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="bgView" destination="Uf1-YJ-u4V" id="IHW-2L-Z53"/>
+                <outlet property="commentLbl" destination="fhj-VJ-bA2" id="A02-Sc-xwU"/>
+                <outlet property="sponserName" destination="Fqj-UE-Wnc" id="oH8-Fs-1T3"/>
+                <outlet property="urlLbl" destination="igC-Mb-86B" id="GJ0-Ju-p2W"/>
+                <outlet property="youTubeView" destination="dIw-Np-3qB" id="3wY-eo-OMd"/>
+            </connections>
+            <point key="canvasLocation" x="120" y="-21"/>
+        </tableViewCell>
+    </objects>
+</document>

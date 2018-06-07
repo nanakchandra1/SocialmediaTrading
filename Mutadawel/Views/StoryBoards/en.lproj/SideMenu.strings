@@ -1,0 +1,303 @@
+
+/* Class = "UILabel"; text = "2.26%"; ObjectID = "0G1-6a-AWB"; */
+"0G1-6a-AWB.text" = "2.26%";
+
+/* Class = "UILabel"; text = "+123SR"; ObjectID = "10U-1h-Qyo"; */
+"10U-1h-Qyo.text" = "+123SR";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "17m-Kj-I6L"; */
+"17m-Kj-I6L.normalTitle" = "SAVE";
+
+/* Class = "UIButton"; normalTitle = "Contact Us"; ObjectID = "1UM-cg-eVi"; */
+"1UM-cg-eVi.normalTitle" = "Contact Us";
+
+/* Class = "UILabel"; text = "Add PayPal Information"; ObjectID = "1VU-KH-71d"; */
+"1VU-KH-71d.text" = "Add PayPal Information";
+
+/* Class = "UILabel"; text = "Or Enter Personal Account"; ObjectID = "1qy-zs-r1i"; */
+"1qy-zs-r1i.text" = "Or Enter Personal Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "28p-g2-HyE"; */
+"28p-g2-HyE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2VO-Ky-fc0"; */
+"2VO-Ky-fc0.text" = "Label";
+
+/* Class = "UILabel"; text = "SR 0"; ObjectID = "4ly-Rw-YPv"; */
+"4ly-Rw-YPv.text" = "SR 0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Sp-uD-RRa"; */
+"5Sp-uD-RRa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0SR"; ObjectID = "5Yp-hF-4vo"; */
+"5Yp-hF-4vo.text" = "0SR";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "5iB-pw-Sc7"; */
+"5iB-pw-Sc7.normalTitle" = "Edit Profile";
+
+/* Class = "UILabel"; text = "Status of Expectation"; ObjectID = "65U-I7-rnF"; */
+"65U-I7-rnF.text" = "Status of Expectation";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "69U-qv-vaS"; */
+"69U-qv-vaS.text" = "Followers";
+
+/* Class = "UILabel"; text = "Lorem ipsum is simply dummy text of the print and typesetting industry."; ObjectID = "7hP-rT-vlJ"; */
+"7hP-rT-vlJ.text" = "Lorem ipsum is simply dummy text of the print and typesetting industry.";
+
+/* Class = "UILabel"; text = "Profit & Lost"; ObjectID = "9Sz-Nh-IVY"; */
+"9Sz-Nh-IVY.text" = "Profit & Lost";
+
+/* Class = "UIButton"; normalTitle = "Sell"; ObjectID = "A6v-hq-CMo"; */
+"A6v-hq-CMo.normalTitle" = "Sell";
+
+/* Class = "UILabel"; text = "Enter PayPal or Personal Account"; ObjectID = "BA6-Ib-Fp4"; */
+"BA6-Ib-Fp4.text" = "Enter PayPal or Personal Account";
+
+/* Class = "UILabel"; text = "+123SR"; ObjectID = "BYa-DD-lOk"; */
+"BYa-DD-lOk.text" = "+123SR";
+
+/* Class = "UILabel"; text = "Expectations"; ObjectID = "C6u-1v-LMW"; */
+"C6u-1v-LMW.text" = "Expectations";
+
+/* Class = "UILabel"; text = "Stocks"; ObjectID = "CDs-UA-iXH"; */
+"CDs-UA-iXH.text" = "Stocks";
+
+/* Class = "UILabel"; text = "Buy: 23.00"; ObjectID = "CFB-hf-602"; */
+"CFB-hf-602.text" = "Buy: 23.00";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "Cf5-Rg-DmY"; */
+"Cf5-Rg-DmY.text" = "Cash";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "DEd-p3-hKU"; */
+"DEd-p3-hKU.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "DQD-ev-eUK"; */
+"DQD-ev-eUK.text" = "Notifications";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "DsF-9m-f5K"; */
+"DsF-9m-f5K.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "E7J-uj-NK5"; */
+"E7J-uj-NK5.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "FL3-dB-bRI"; */
+"FL3-dB-bRI.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Posts"; ObjectID = "FW2-Ha-PUM"; */
+"FW2-Ha-PUM.text" = "Posts";
+
+/* Class = "UILabel"; text = "My Stocks List"; ObjectID = "Fu7-QY-okZ"; */
+"Fu7-QY-okZ.text" = "My Stocks List";
+
+/* Class = "UILabel"; text = "Mohammad Ali Nasser"; ObjectID = "GCt-G9-LEv"; */
+"GCt-G9-LEv.text" = "Mohammad Ali Nasser";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "GuB-oZ-JM4"; */
+"GuB-oZ-JM4.text" = "Contact Us";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Hfz-AR-Gj9"; */
+"Hfz-AR-Gj9.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Versus 200SR"; ObjectID = "Hsv-jY-rmo"; */
+"Hsv-jY-rmo.text" = "Versus 200SR";
+
+/* Class = "UIButton"; normalTitle = "Add More Money"; ObjectID = "I5Q-pq-Ijg"; */
+"I5Q-pq-Ijg.normalTitle" = "Add More Money";
+
+/* Class = "UILabel"; text = "Price Indicator"; ObjectID = "IRi-hA-Mxm"; */
+"IRi-hA-Mxm.text" = "Price Indicator";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "IZD-fa-kXM"; */
+"IZD-fa-kXM.text" = "Mohammad Ali";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "JMD-wR-JLk"; */
+"JMD-wR-JLk.text" = "0";
+
+/* Class = "UILabel"; text = "User Profile"; ObjectID = "KX5-yT-qqd"; */
+"KX5-yT-qqd.text" = "User Profile";
+
+/* Class = "UILabel"; text = "3.5"; ObjectID = "LFa-uI-ebp"; */
+"LFa-uI-ebp.text" = "3.5";
+
+/* Class = "UILabel"; text = "Profit & Lost"; ObjectID = "LKB-RY-iWk"; */
+"LKB-RY-iWk.text" = "Profit & Lost";
+
+/* Class = "UILabel"; text = "Wallet Net Value"; ObjectID = "LOY-dm-iWl"; */
+"LOY-dm-iWl.text" = "Wallet Net Value";
+
+/* Class = "UILabel"; text = "Mohammad Ali "; ObjectID = "Liw-pa-zDR"; */
+"Liw-pa-zDR.text" = "Mohammad Ali ";
+
+/* Class = "UIButton"; normalTitle = "Change your profile photo"; ObjectID = "MBb-RG-LAG"; */
+"MBb-RG-LAG.normalTitle" = "Change your profile photo";
+
+/* Class = "UIButton"; normalTitle = "Payment"; ObjectID = "NIp-k2-iIO"; */
+"NIp-k2-iIO.normalTitle" = "Payment";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Nuv-20-Q1T"; */
+"Nuv-20-Q1T.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Nv4-by-OL9"; */
+"Nv4-by-OL9.text" = "0";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "OOG-2x-zWm"; */
+"OOG-2x-zWm.text" = "Mohammad Ali";
+
+/* Class = "UILabel"; text = "Posts"; ObjectID = "Oyc-6i-zSW"; */
+"Oyc-6i-zSW.text" = "Posts";
+
+/* Class = "UILabel"; text = "Mohammad Ali Nasser"; ObjectID = "PKo-Zv-XGV"; */
+"PKo-Zv-XGV.text" = "Mohammad Ali Nasser";
+
+/* Class = "UIButton"; normalTitle = "Upgrade Account"; ObjectID = "PvS-Qp-F0s"; */
+"PvS-Qp-F0s.normalTitle" = "Upgrade Account";
+
+/* Class = "UILabel"; text = "off"; ObjectID = "Q2W-GB-Tyb"; */
+"Q2W-GB-Tyb.text" = "off";
+
+/* Class = "UILabel"; text = "Joined December 2016"; ObjectID = "Rka-PM-IZY"; */
+"Rka-PM-IZY.text" = "Joined December 2016";
+
+/* Class = "UILabel"; text = "14m ago"; ObjectID = "SQA-FI-Ei0"; */
+"SQA-FI-Ei0.text" = "14m ago";
+
+/* Class = "UILabel"; text = "Subscriptions"; ObjectID = "TQ3-le-Ebc"; */
+"TQ3-le-Ebc.text" = "Subscriptions";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Tdq-bQ-aOj"; */
+"Tdq-bQ-aOj.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Quantity: 20"; ObjectID = "Tt1-WU-LIq"; */
+"Tt1-WU-LIq.text" = "Quantity: 20";
+
+/* Class = "UILabel"; text = "My Donation:"; ObjectID = "W7S-cX-ZHt"; */
+"W7S-cX-ZHt.text" = "My Donation:";
+
+/* Class = "UILabel"; text = "Pay to: "; ObjectID = "WWn-NQ-fAP"; */
+"WWn-NQ-fAP.text" = "Pay to: ";
+
+/* Class = "UILabel"; text = "Turn on notifications for this account. Either get notified for all Post(including live broadcasts) or for live broadcasts only."; ObjectID = "YH4-hh-suq"; */
+"YH4-hh-suq.text" = "Turn on notifications for this account. Either get notified for all Post(including live broadcasts) or for live broadcasts only.";
+
+/* Class = "UILabel"; text = "2.26%"; ObjectID = "ZKS-7z-jDB"; */
+"ZKS-7z-jDB.text" = "2.26%";
+
+/* Class = "UILabel"; text = "Joined December 2016"; ObjectID = "ZKx-Gx-7kK"; */
+"ZKx-Gx-7kK.text" = "Joined December 2016";
+
+/* Class = "UIButton"; normalTitle = "Delete Conversation"; ObjectID = "ZjC-C8-Mvl"; */
+"ZjC-C8-Mvl.normalTitle" = "Delete Conversation";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "ahF-05-N13"; */
+"ahF-05-N13.text" = "Following";
+
+/* Class = "UILabel"; text = "Status of Expectations"; ObjectID = "aqg-yg-L4Y"; */
+"aqg-yg-L4Y.text" = "Status of Expectations";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "btm-9K-h66"; */
+"btm-9K-h66.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "c8i-RN-xDe"; */
+"c8i-RN-xDe.normalTitle" = "Buy";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dMO-NZ-Dxw"; */
+"dMO-NZ-Dxw.text" = "0";
+
+/* Class = "UILabel"; text = "Add More Money"; ObjectID = "dg9-O6-eU1"; */
+"dg9-O6-eU1.text" = "Add More Money";
+
+/* Class = "UILabel"; text = "Account Notifications"; ObjectID = "dp2-qG-Y0e"; */
+"dp2-qG-Y0e.text" = "Account Notifications";
+
+/* Class = "UILabel"; text = "Samba Finencial Group"; ObjectID = "ds4-Zd-9VR"; */
+"ds4-Zd-9VR.text" = "Samba Finencial Group";
+
+/* Class = "UILabel"; text = "Aiman Ali"; ObjectID = "dyk-MX-a0I"; */
+"dyk-MX-a0I.text" = "Aiman Ali";
+
+/* Class = "UILabel"; text = "User Profile"; ObjectID = "eCu-b2-zwc"; */
+"eCu-b2-zwc.text" = "User Profile";
+
+/* Class = "UILabel"; text = "Pay to: "; ObjectID = "fPb-pa-5ou"; */
+"fPb-pa-5ou.text" = "Pay to: ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fZ4-jf-Nrz"; */
+"fZ4-jf-Nrz.text" = "0";
+
+/* Class = "UILabel"; text = "Enter PayPal Information"; ObjectID = "gY6-Ob-EW1"; */
+"gY6-Ob-EW1.text" = "Enter PayPal Information";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "gfr-Ws-2bk"; */
+"gfr-Ws-2bk.text" = "or";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "gxr-f8-9fF"; */
+"gxr-f8-9fF.text" = "Messages";
+
+/* Class = "UILabel"; text = "Lorem ipsum is simply dummy text of the print and typesetting industry."; ObjectID = "hIt-Rr-Oo8"; */
+"hIt-Rr-Oo8.text" = "Lorem ipsum is simply dummy text of the print and typesetting industry.";
+
+/* Class = "UIButton"; normalTitle = "Mute Notifications"; ObjectID = "i3q-Hv-U2V"; */
+"i3q-Hv-U2V.normalTitle" = "Mute Notifications";
+
+/* Class = "UILabel"; text = "Add More Money"; ObjectID = "i59-Dx-EJj"; */
+"i59-Dx-EJj.text" = "Add More Money";
+
+/* Class = "UILabel"; text = "Status of Expectation"; ObjectID = "iKQ-cL-OzC"; */
+"iKQ-cL-OzC.text" = "Status of Expectation";
+
+/* Class = "UILabel"; text = "0SR"; ObjectID = "iQW-Bb-AFD"; */
+"iQW-Bb-AFD.text" = "0SR";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "iqR-cq-cRn"; */
+"iqR-cq-cRn.text" = "Following";
+
+/* Class = "UILabel"; text = "Donate to:"; ObjectID = "izn-vO-A2t"; */
+"izn-vO-A2t.text" = "Donate to:";
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = "koe-50-6pM"; */
+"koe-50-6pM.normalTitle" = "Send Message";
+
+/* Class = "UILabel"; text = "Please complete this form below.\\nThe more information that you provide the quicker we will be able to respond with the correct information.\\n\\nWe never share your info with the third party and your info will be protected and stored securely."; ObjectID = "lhT-8r-M1S"; */
+"lhT-8r-M1S.text" = "Please complete this form below.\\nThe more information that you provide the quicker we will be able to respond with the correct information.\\n\\nWe never share your info with the third party and your info will be protected and stored securely.";
+
+/* Class = "UILabel"; text = "Followed you"; ObjectID = "nw5-tW-GYl"; */
+"nw5-tW-GYl.text" = "Followed you";
+
+/* Class = "UIButton"; normalTitle = "Payment"; ObjectID = "ogg-eP-mgm"; */
+"ogg-eP-mgm.normalTitle" = "Payment";
+
+/* Class = "UILabel"; text = "Posts"; ObjectID = "pDK-rN-d6E"; */
+"pDK-rN-d6E.text" = "Posts";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "r95-Ot-sKZ"; */
+"r95-Ot-sKZ.normalTitle" = "CLOSE";
+
+/* Class = "UIButton"; normalTitle = "Donate"; ObjectID = "sVx-OS-mLa"; */
+"sVx-OS-mLa.normalTitle" = "Donate";
+
+/* Class = "UILabel"; text = "11 Jun 2017"; ObjectID = "tnN-pZ-LXf"; */
+"tnN-pZ-LXf.text" = "11 Jun 2017";
+
+/* Class = "UILabel"; text = "Profit & lost: +232SR"; ObjectID = "vGh-X4-y85"; */
+"vGh-X4-y85.text" = "Profit & lost: +232SR";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "vJu-Jn-8b6"; */
+"vJu-Jn-8b6.text" = "Followers";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "vON-qP-seA"; */
+"vON-qP-seA.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Versus 200SR"; ObjectID = "vub-wF-DBb"; */
+"vub-wF-DBb.text" = "Versus 200SR";
+
+/* Class = "UILabel"; text = "Aiman Ali"; ObjectID = "xPB-ca-gJP"; */
+"xPB-ca-gJP.text" = "Aiman Ali";
+
+/* Class = "UILabel"; text = "Current Price: 22.25"; ObjectID = "y6L-dW-3m3"; */
+"y6L-dW-3m3.text" = "Current Price: 22.25";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "ySa-wW-cpg"; */
+"ySa-wW-cpg.text" = "Edit Profile";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "zZQ-1i-zeJ"; */
+"zZQ-1i-zeJ.text" = "About Us";

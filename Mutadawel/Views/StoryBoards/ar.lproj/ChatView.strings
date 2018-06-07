@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1cW-MX-HW2"; */
+"1cW-MX-HW2.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1mI-Ef-gcA"; */
+"1mI-Ef-gcA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Block User"; ObjectID = "6rA-2g-Q37"; */
+"6rA-2g-Q37.normalTitle" = "Block User";
+
+/* Class = "UIButton"; normalTitle = "Mute Notifications"; ObjectID = "CXp-35-Qcn"; */
+"CXp-35-Qcn.normalTitle" = "Mute Notifications";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EYz-A1-OFY"; */
+"EYz-A1-OFY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ev1-wB-QDZ"; */
+"Ev1-wB-QDZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Connecting..."; ObjectID = "Fpg-ZQ-dac"; */
+"Fpg-ZQ-dac.text" = "Connecting...";
+
+/* Class = "UILabel"; text = "DATA NOT FOUND"; ObjectID = "Nmj-hx-Xab"; */
+"Nmj-hx-Xab.text" = "DATA NOT FOUND";
+
+/* Class = "UILabel"; text = "DALLINI"; ObjectID = "QT2-xR-vRV"; */
+"QT2-xR-vRV.text" = "DALLINI";
+
+/* Class = "UILabel"; text = "11 Jun 2017"; ObjectID = "aw5-ok-grz"; */
+"aw5-ok-grz.text" = "11 Jun 2017";
+
+/* Class = "UILabel"; text = "Connecting..."; ObjectID = "cqq-S4-FbG"; */
+"cqq-S4-FbG.text" = "Connecting...";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "cwP-l5-e8X"; */
+"cwP-l5-e8X.text" = "Messages";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dbX-1P-K8Y"; */
+"dbX-1P-K8Y.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eS1-YN-ySt"; */
+"eS1-YN-ySt.text" = "Label";
+
+/* Class = "UILabel"; text = "Connecting..."; ObjectID = "iFE-1d-a5k"; */
+"iFE-1d-a5k.text" = "Connecting...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iqq-af-eFX"; */
+"iqq-af-eFX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mjg-KH-d5g"; */
+"mjg-KH-d5g.text" = "Label";
+
+/* Class = "UILabel"; text = "MESSAGES"; ObjectID = "oC2-Pz-Zia"; */
+"oC2-Pz-Zia.text" = "MESSAGES";
+
+/* Class = "UILabel"; text = "DATA NOT FOUND"; ObjectID = "sVk-Cj-NMw"; */
+"sVk-Cj-NMw.text" = "DATA NOT FOUND";
+
+/* Class = "UILabel"; text = "Mohammad Ali Nasser"; ObjectID = "t2o-Wj-0QO"; */
+"t2o-Wj-0QO.text" = "Mohammad Ali Nasser";
+
+/* Class = "UIButton"; normalTitle = "Delete Conversation"; ObjectID = "vD6-hM-qiv"; */
+"vD6-hM-qiv.normalTitle" = "Delete Conversation";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vN2-CM-JM1"; */
+"vN2-CM-JM1.text" = "Label";
+
+/* Class = "UILabel"; text = "You have 2 unread messages"; ObjectID = "z5s-ty-HJh"; */
+"z5s-ty-HJh.text" = "You have 2 unread messages";

@@ -1,0 +1,150 @@
+
+/* Class = "UILabel"; text = "Choose Other Markets"; ObjectID = "18T-86-LIh"; */
+"18T-86-LIh.text" = "Choose Other Markets";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "1CN-KG-LOr"; */
+"1CN-KG-LOr.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "Mohammad Ali"; ObjectID = "2Yb-Y9-pZg"; */
+"2Yb-Y9-pZg.text" = "Mohammad Ali";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "2hS-lY-Jsg"; */
+"2hS-lY-Jsg.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Other Markets"; ObjectID = "2mr-5E-gla"; */
+"2mr-5E-gla.text" = "Other Markets";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "3J7-XI-mJr"; */
+"3J7-XI-mJr.placeholder" = "UserName";
+
+/* Class = "UILabel"; text = "Country Name"; ObjectID = "6hn-sd-YRP"; */
+"6hn-sd-YRP.text" = "Country Name";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "8VQ-NN-QYP"; */
+"8VQ-NN-QYP.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "SABIC"; ObjectID = "9Ev-L4-b0R"; */
+"9Ev-L4-b0R.text" = "SABIC";
+
+/* Class = "UILabel"; text = "SABIC"; ObjectID = "9O7-A1-ZNF"; */
+"9O7-A1-ZNF.text" = "SABIC";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "AA4-lA-TUU"; */
+"AA4-lA-TUU.placeholder" = "UserName";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "AXL-He-12N"; */
+"AXL-He-12N.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Forex Market"; ObjectID = "IKh-Q2-YL2"; */
+"IKh-Q2-YL2.text" = "Forex Market";
+
+/* Class = "UILabel"; text = "15999 Folllowers"; ObjectID = "Jve-UK-YDS"; */
+"Jve-UK-YDS.text" = "15999 Folllowers";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "K6c-6m-hdR"; */
+"K6c-6m-hdR.text" = "Sign In";
+
+/* Class = "UILabel"; text = "Choose Indexes"; ObjectID = "NeI-Wc-061"; */
+"NeI-Wc-061.text" = "Choose Indexes";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "PIV-9x-83n"; */
+"PIV-9x-83n.placeholder" = "UserName";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "R2G-Oy-BL8"; */
+"R2G-Oy-BL8.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "R7c-UL-4j4"; */
+"R7c-UL-4j4.text" = "Reset Password";
+
+/* Class = "UILabel"; text = "15554 Followers"; ObjectID = "Rpz-Lx-2EW"; */
+"Rpz-Lx-2EW.text" = "15554 Followers";
+
+/* Class = "UILabel"; text = "Choose Market"; ObjectID = "T87-68-fHV"; */
+"T87-68-fHV.text" = "Choose Market";
+
+/* Class = "UILabel"; text = "By signing up with Tridder you agree to our terms  and conditions"; ObjectID = "T9x-ai-2QN"; */
+"T9x-ai-2QN.text" = "By signing up with Tridder you agree to our terms  and conditions";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "U0N-Ko-j4R"; */
+"U0N-Ko-j4R.text" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "U4G-ea-HyW"; */
+"U4G-ea-HyW.placeholder" = "UserName";
+
+/* Class = "UILabel"; text = "15999 Folllowers"; ObjectID = "U4a-yM-1ph"; */
+"U4a-yM-1ph.text" = "15999 Folllowers";
+
+/* Class = "UILabel"; text = "Terms And Conditions"; ObjectID = "VAv-pl-Fct"; */
+"VAv-pl-Fct.text" = "Terms And Conditions";
+
+/* Class = "UILabel"; text = "3.5"; ObjectID = "ZYp-0b-wTn"; */
+"ZYp-0b-wTn.text" = "3.5";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "a9j-ud-tyC"; */
+"a9j-ud-tyC.placeholder" = "Search";
+
+/* Class = "UITextField"; placeholder = "+324"; ObjectID = "aK1-0i-Mhv"; */
+"aK1-0i-Mhv.placeholder" = "+324";
+
+/* Class = "UILabel"; text = "Select All"; ObjectID = "dtv-Lv-jCr"; */
+"dtv-Lv-jCr.text" = "Select All";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "eKg-u2-XEc"; */
+"eKg-u2-XEc.placeholder" = "UserName";
+
+/* Class = "UILabel"; text = "Select All"; ObjectID = "fDp-Bm-5JF"; */
+"fDp-Bm-5JF.text" = "Select All";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "gzk-Of-geu"; */
+"gzk-Of-geu.normalTitle" = "Sign up";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "hrD-Wg-N9G"; */
+"hrD-Wg-N9G.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "iTn-SU-0c6"; */
+"iTn-SU-0c6.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "j5I-XN-RoB"; */
+"j5I-XN-RoB.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "jDA-Ga-eCE"; */
+"jDA-Ga-eCE.placeholder" = "UserName";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "kE6-HY-dkN"; */
+"kE6-HY-dkN.normalTitle" = "DONE";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "lbd-Xr-UdS"; */
+"lbd-Xr-UdS.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Choose Indexes"; ObjectID = "m3Y-Hd-gdu"; */
+"m3Y-Hd-gdu.text" = "Choose Indexes";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "m5i-s7-bWn"; */
+"m5i-s7-bWn.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Select All"; ObjectID = "n1E-CK-ZaM"; */
+"n1E-CK-ZaM.text" = "Select All";
+
+/* Class = "UILabel"; text = "Forex Market"; ObjectID = "qsZ-cD-fBj"; */
+"qsZ-cD-fBj.text" = "Forex Market";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "ro1-N0-mFa"; */
+"ro1-N0-mFa.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Select Country Code"; ObjectID = "tQq-hN-N9y"; */
+"tQq-hN-N9y.text" = "Select Country Code";
+
+/* Class = "UILabel"; text = "Choose People"; ObjectID = "wBl-eG-gnz"; */
+"wBl-eG-gnz.text" = "Choose People";
+
+/* Class = "UILabel"; text = "Select All"; ObjectID = "xgy-Fg-m3P"; */
+"xgy-Fg-m3P.text" = "Select All";
+
+/* Class = "UIButton"; normalTitle = "Send me new Password"; ObjectID = "yJe-EE-xBB"; */
+"yJe-EE-xBB.normalTitle" = "Send me new Password";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "yU9-lp-5kM"; */
+"yU9-lp-5kM.normalTitle" = "Sign in";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "zg9-vg-DgV"; */
+"zg9-vg-DgV.placeholder" = "Search";

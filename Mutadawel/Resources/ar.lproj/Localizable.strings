@@ -1,0 +1,528 @@
+/*
+ Localizable.strings
+ Mutadawel
+ 
+ Created by Appinventiv on 06/03/17.
+ Copyright © 2017 Appinventiv. All rights reserved.
+ */
+
+// Wallet Net Value
+"From" = "من";
+"To" = "الى";
+"Sold" = "بيع";
+"Bought" = "شراء";
+"WalletBalance" = "قيمة المحفظة";
+"Share" = "للسهم";
+"Shares" = "سهم";
+
+//price Indicator
+"CURRENT_PRICE_INDICATOR" = "مراقب السعر الحالي";
+"LIST" = "قائمة";
+"REQUIRED_STOCK_PRICE" = "السعر المطلوب";
+
+"SIGN_IN" = "دخول";
+"EMAIL_OR_MOB_NO_TEXTFIELD" = "اسم المستخدم";
+"PASSWORD" = "كلمة المرور";
+"FORGOT_PASS_BTN" = "هل نسيت كلمة المرور";
+"USER_LIST"  = "القائمة التالية";
+"CHANGE_LANG_BTN" = "العربية";
+
+
+
+// SIGNUP Screen
+"SIGN_UP" = "تسجيل دخول";
+"NICK_NAME" = "Nick Name";
+"CODE" = "Code";
+"MOBILE_NO" =  "رقم الموبايل";
+"EMAIL" = "الإيميل";
+"TERMS_AND_CONDITIONS" = "عند تسجيلك مع تريدر فإنك توافق على الشروط والأحكام";
+"T_C" = "الشروط والأحكام";
+"OKAY" = "موافق";
+
+
+
+// Choose Market Screen
+"CHOOSE_MARKET" = "اختيار السوق";
+"CHOOSE_OTHET_MARKET" = "اختيار الأسواق الأخرى";
+"MARKET" = "السوق";
+"NEXT" = "التالي";
+
+
+// Choose Stocks Screen
+"CHOOSE_STOCKS" = "اختيار الأسهم";
+"CHOOSE_a_STOCKS" = "اختيار الأسهم";
+"SEARCH" = "بحث";
+"SELECT_ALL" = "اختيار الكل";
+"DESELECT_ALL" = "الغاء تحديد الكل";
+"CONTINUE" = "استمر";
+"CHOOSE_CURRENCIES" = "اختيار العملات";
+
+// Choose Peopole Screen
+"CHOOSE_PEOPLE" = "اختيار الأشخاص";
+"START" = "إبدأ";
+"FOLLOW" = "تابع";
+"USER_NAME" = "اسم المستخدم";
+"RATE" = "Rate";
+"UNBLOCK" = "الغاء الحظر";
+
+// Reset Password Screen
+"RESET_PASS" = "إعادة تعيين كلمة المرور";
+"SEND_NEW_PASS_BTN" = "ارسل لي كلمة المرور الجديدة";
+
+// About Us Screen
+"ABOUT_US" = "معلومات عنا";
+"CONTACT_US" = "اتصل بنا";
+"Successfully_donated" = "تم التبرع به بنجاح";
+
+
+// Contact Us Screen
+"NAME" = "الاسم";
+"DESCRIBE_ISSUE" = "يرجى وصف مشكلتك";
+"SEND_MSG_BTN" = "إرسال الرسالة";
+"SEND_NEW_MSG" = "إبدأ برسالة جديدة";
+
+"SUBJECT" = "عنوان الرسالة";
+"MESSAGE" = "الرسالة";
+"DESCRIPTION_LABEL" = "نحن لا نشارك المعلومات الخاصة بك مع طرف ثالث، وسوف تكون معلوماتك الشخصية محمية ومخزنة بشكل آمن.";
+
+"DESC_LABEL" = "من فضلك قل لنا من أنت وأدخل وصفا للمشكلة، وشكرا لمساعدتنا في تقديم خدمة أفضل.";
+
+
+// Price Indicatoe Screen
+"PRICE_INDICATOR" = "مراقب الأسعار";
+"STOCK_NAME" = "اسم السهم";
+"PRICE" = "السعر";
+"FORECASTED_PRICE" = "السعر المتوقع";
+
+"SUBMIT_BTN" = "ارسل";
+
+// Profile screen
+"DONATE" = "تبرع";
+"DONATE_TO" = "عبر عن امتنانك لـ";
+"POINTS" = "Points";
+"USER_BIOGRAPHY" = " النبذة الشخصية";
+"USER_PROFILE" = "ملف شخصي ";
+"PROFILE" = "الملف الشخصي";
+"FOLLOWING" = "متابعهم";
+"FOLLOWERS" = "متابع";
+"POSTS" = "المشاركات";
+"EDIT_PROFILE" = "تعديل الملف الشخصي";
+"PROFIT_AND_LOST" = "الربح والخسارة";
+"STATUS_OF_EXT" = "حالة التوقعات";
+"CHANGE_PROFILE_PHOTO" = "تعديل صورة الملف الشخصي;";
+"UPGRADE_ACCOUNT" = "معلومات الحساب";
+"MY_PROFILE" = "ملفي الشخصي";
+"ON" = "مفعل";
+"OFF" = "غير مفعل";
+"ACCOUNT_NOTIFICATIONS" = "اشعار الحساب    ";
+"DESCRIPTION" = "تفعيل الإشعارات لهذا الحساب. إما الحصول على إخطار لجميع المشاركات";
+"NOTI_DESCRIPTION" = "ستصلك الأن إشعارات فورية من هذا المستخدم";
+"NOTI_OFF_DESCRIPTION" = "الآن عليك أن لا تتلقى إشعارات من هذا المستخدم";
+"ADMIN" = "المشرف";
+
+
+// Posts screen
+
+"POSTS" = "المنشورات";
+
+// Expectations screen
+
+"PENDING_EXPECTATION" = "توقعات معلقة";
+"RIGHT_EXPECTATION" = "توقعات صحيحه";
+"WRONG_EXPECTATION" = "توقعات خاطئة";
+"CORRECT"= "الصحيحه";
+"FAILED" = "الخاطئه";
+
+// Subscriptions screen
+"SUBSCRIPTIONS" = "Subscriptions";
+"CASH" = "السيولة النقدية";
+"STOCKS" = "الاسهم";
+"ADD_MORE_MONEY" = "إضافة المزيد من المال";
+"MY_DONATION" = "مكتسباتي";
+"PAY_TO" = "دفع";
+"PAYMENT_BTN" = "دفع";
+"Reply" = "رد";
+
+// My Stocks screen
+"COMMENT" = "تعليق";
+"CURRENT_PRICE" = "السعر الحالي";
+"QUANTITY_NO" = "الكمية";
+"QUANTITY" = "الكمية";
+"TOTAL" = "مجموع";
+
+"BUY_SELL" = "بيع أو شراء";
+"TYPE" = "النوع";
+"STOP_LOSS" = "إيقاف الخسارة";
+"TAKE_PROFIT" = "اخذ الربح";
+"IF" = "إذا";
+"WITHIN" = "في غضون";
+"THEN" = "ثم";
+"FROM_TIME" = "من";
+"TO_TIME" = "إلى";
+"MY_STOCK_LIST" = "قائمة أسهمي";
+"VERSUS" = "مقابل";
+// Messages screen
+
+"MESSAGES" = "الرسائل";
+"DELET_CONVERSATION_BTN" = "حذف المحادثة";
+"MUTE_NOTIFICATION_BTN" = "جعل الاشعارات صامتة";
+
+// Notifications screen
+
+"NOTIFICATIONS" = "الإشعارات";
+
+// Edit Profile Screen
+
+"EDIT_PROFILE" = "تعديل الملف الشخصي";
+"BIO" = "النبذة الشخصية";
+"SAVE_BTN" = "حفظ";
+"CHOOSE_PROFILE_PIC" = "تعديل صورة الملف الشخصي";
+
+// Status of expect Screen
+
+"STATUS_OF_FORECAST" = "حالة التوقعات";
+
+// Home Screen
+"HOME" = "الرئيسية";
+"TIMELINE" = "الخط الزمني";
+"TRADE" = "متاجرة";
+"RANKING" = "الترتيب";
+"EDIT_POST" = "EDIT POST";
+"BEFORE" = "قبل";
+"FORECAST_PRICE" = "السعر المتوقع";
+"FORECAST_TIME" = "وقت التوقع";
+"PRICE_WHEN_FORECAST" = "السعر عند التوقع";
+"WALLET_NET_VALUE" = "صافي قيمة المحفظة";
+
+
+
+// TRADE Screen
+"SELL" = "بيع";
+"BUY" = "شراء";
+"STOCK_NAME" = "اسم السهم";
+
+//TRADE post
+
+"NUMBER_OF_STOCKS" = "عدد الاسهم";
+"BUYING_SUCCEEDED" = "تم الشراء";
+"SELLING_SUCCEEDED" = "تم البيع حققت ارباح ب";
+"SELLING_WITH_LOSS" = "تم البيع حققت خسارة ب";
+"JUST_SELLING" = "تم البيع لم تحقق ارباح او خسارة";
+"PRICE_OF_ONE_STOCK" = "متوسط سعر الشراء";
+"LAST_QUANTITY" = "الكمية السابقة";
+"DATE_OF_FIRST_BUYING" = "تاريخ اول عملية شراء:";
+"REAL_S" = "ريال";
+
+"i_purchased" = "اشتريت في";
+"i_sold" = "بعت في";
+"WITH_PROFIT" = "وربحت";
+"PROFIT" = "ربح";
+"LOSS" = "بخسارة";
+"FOR" = "بسعر";
+"WITHOUT_PROFIT" = "لم احقق ارباح";
+"tradeStock" = "سهم";
+
+// Ranking Screen
+
+"WRONG" = "خاطئ";
+"RIGHT" = "صحيح";
+"ALL" = "ALL";
+"BY_DELTA_FORECAST" = "حسب تقييم الذيب تريدر";
+"BY_CORRECT_FORECAST" = "حسب التوقعات الصحيحة";
+"BY_FORECAST_PROFIT" = "حسب ربحية التوقعات";
+"BY_WALLET_PROFIT" = "حسب ربحية المحفظة";
+"BY_STOCK" = "حسب سهم معين";
+
+// Popup Screen
+"HIDE_POST" = "إخفاء ";
+"REPORT_POST" = "تبليغ";
+"UNFOLLOW_USER" = "الغاء متابعة المستخدم";
+"FOLLOW_USER" = "تابع";
+
+"BLOCK_USER" = "حظر المستخدم";
+"BLOCKED_USER" = "المحظورون";
+
+"FILTER_FOR_TIME" = "تصفية حسب الوقت";
+"BEST_USER_FOR" = "أفضل المستخدمين لـ";
+"WEEK" = "أسبوع";
+"MONTH" = "شهر";
+"YEAR" = "سنة";
+"DONE" = "تم";
+"CLOSE" = "اغلاق";
+"BY_PROFIT" = "حسب الربح";
+"Change_Stop_Loss" = "تغيير إيقاف الخسارة";
+"Change_Take_Profit_Price" = "تغيير سعر جني الأرباح";
+"Close_Order" = "إغلاق الامر";
+
+// add new post
+
+"DURATION_FORECAST" = "المدة (بالأيام)";
+"ADD_NEW_FORECAST" = "إضافة توقع جديد";
+"GENERAL" = "عام";
+"FORECAST" = "التوقعات";
+"CONDITIONAL_FORECAST" = "توقع مشروط";
+"STOCK" = "السهم";
+"CURRENCY" = "العملة";
+"FOREX" = "فوركس";
+"OR" = "أو";
+"SEND" = "إرسال";
+"CHOOSE_IMAGE" = "اختر صوره";
+"CAMERA" = "الكاميرا   ";
+"GALLERY" = "المعرض  ";
+"CANCEL" = "إلغاء";
+"HAPPENING" = "ماذا يخطر في بالك؟";
+
+// My Donation list
+"MY_DONATION_LIST" = "قائمة رد الجميل";
+"AMOUNT" = "المبلغ";
+"JOINED" = "انضم في";
+"TRANSFER_FROM_TRIDDER" = "نقل من تريدر إلى الحساب الشخصي";
+"SUCCESSFULL_TRANSFER" = "عملية النقل تمت بنجاح";
+
+//Settings
+
+"SETTINGS" = "الإعدادات";
+"FOLLOWING_PEOPLE" = "الأشخاص المتابع لهم";
+"FOLLOWING_MARKETS" = "الأسواق المتابع لها";
+"CHANGE_PASSWORD" = "تغيير كلمة المرور";
+"INVITE_FRIENDS" = "دعوه الاصدقاء";
+"CHANGE_LANGUAGE" = "تغيير اللغة";
+"DISCLAIMER" = "إخلاء المسؤولية";
+
+
+//My Followers
+
+"MY_FOLLOWERS" = "المتابعون له";
+"MY_FOLLOWERS_LIST" = "قائمة المتابعين لي";
+
+//My Following
+
+"MY_FOLLOWING" = "متابعهم";
+
+//SideMenu
+
+"WALLET" = "المحفظة";
+"SUPPORT" = "مساعده";
+"SIGN_OUT" = "خروج";
+
+//CHANGE PASSWORD
+
+"CURRENT_PASSWORD" = "كلمة المرور الحالية";
+"NEW_PASSWORD" = "كلمة المرور الجديدة";
+"RE_TYPE_PASSWORD" = "إعادة كتابة كلمة المرور الجديدة";
+
+
+// Following Markets Screen
+"FOLLOWING_MARKET" = "الأسواق التالية";
+"UNFOLLOW" = "الغاء المتابعة";
+
+//search
+"Search_Forecast" = "ابحث في الأسهم، العملات، أو الأشخاص";
+"Search_Stocks" = "بحث الأسهم";
+
+//PayPal
+
+"PayPaltitle" = "معلومات الحساب";
+"Enter_Paypal_Info" = "ادخل معلومات PayPal";
+"Enter_Personal_Account" = "أو ادخل الحساب الشخصي";
+"Full_Name" = "الاسم الثلاثي";
+"Account_Name"= "اسم البنك";
+"Country" = "الدولة";
+"City" = "المدينة";
+"IBAN" = "رقم الحساب IBAN";
+"Account_Number" = "رقم الحساب";
+"Add_Paypal" = "PayPal إضافة معلومات";
+"PayPal_Name" = "PayPal اسم";
+"PayPal_Email" = "ادخل البريد الالكتروني او رقم الجوال";
+"coming_soon" = "قريبا";
+
+
+
+//Toast Messages
+
+"Enter_User_Name" = "ادخل اسم المستخدم";
+"Enter_Password"     = "ادخل كلمة المرور";
+"Please_enter_the_Name" = "يرجى إدخال اسمك";
+"Please_enter_the_subject" = "الرجاء إدخال الموضوع";
+"Please_enter_the_message" = "الرجاء إدخال رسالة";
+"Please_enter_the_UserName" = "يرجى إدخال اسم مستخدم";
+"username_must_5_char" = "اسم المستخدم يجب أن يكون أكثر من 5 أحرف";
+
+"Please_enter_valid_UserName" = "الرجاء ادخال اسم المستخدم صحيح  ";
+"Please_enter_Country_Code" = "الرجاء ادخال رمز البلد";
+"Please_enter_the_Mobile_Number" = "يرجى إدخال رقم جوالك";
+"Please_enter_the_Email_Address" = "يرجى إدخال إيميلك";
+"Please_enter_valid_Email_Address" = "الرجاء ادخال  عنوان بريد الكتروني صحيح";
+"Please_enter_Email_or_Mobile_number_or_Username" = "الرجاء إدخال البريد الإلكتروني أو رقم الجوال أو اسم المستخدم";
+"Please_enter_the_Password" = "يرجى إدخال كلمة مرور";
+"Password_must_be_more_than_7_characters"     = "كلمة المرور يجب أن تتكون من 7 خانات على الأقل";
+"Password_should_not_be_more_than_20_characters" = "كلمة المرور يجب أن لا تتجاوز 20 خانة";
+"Camera_Unavailable"     = "الكاميرا غير متاحه";
+"Please_check_to_see_if_it_is_disconnected_or_in_use_by_another_application" = "الرجاء التأكد اذا كانت غيرموصوله أو أنها مستخدمة من قبل برنامج آخر";
+"Photo_Library_Unavailable" = "مكتبة الصور غير متاحه";
+"Please_check_to_see_if_device_settings_does_not_allow_photo_library_access" = "الرجاء التأكد اذا كانت إعدادات الجهاز لا تسمح بالوصول الى مكتبة الصور";
+"Please_select_atleast_one_market" = "حدد السوق على الأقل";
+"Please_enter_Current_Password" = "الرجاء ادخال كلمة المرور الحالية";
+"Please_enter_New_Password" = "الرجاء ادخال كلمة المرور الجديدة";
+"Please_enter_Confirm_Password" = "الرجاء تأكيد كلمة المرور";
+"Please_enter_bio"     = "يرجى إدخال النبذة الشخصية";
+"Please_add_a_comment" = "الرجاء اضافه تعليق ";
+"write_a_comment" = "أكتب تعليقا...";
+"write_a_reply" = "كتابة رد ...";
+
+"Please_select_stock" = "يرجى تحديد سهم";
+"Please_add_the_duration" = "الرجاء إدخال المدة";
+"Please_add_the_price" = "يرجى إدخال سعر التوقعات";
+"Please_select_currency" = "يرجى تحديد زوج العملات";
+"Please_choose_buy_or_sell" = "الرجاء اختيار شراء او بيع ";
+"Please_fill_stop_loss"= "الرجاء إدخال مبلغ إيقاف الخسارة";
+"Please_fill_take_profit" = "يرجى إدخال مبلغ جني الأرباح";
+"Please_select_type" = "الرجاء اختيار النوع ";
+"Please_add_the_condition1" = "لم يتم تحديد الشرط إذا";
+"Please_add_the_condition2" = "لم يتم تحديد الشرط ثم";
+"Please_add_a_price" = "الرجاء إدخال سعر";
+
+"Please_fill_within_field" = "في حالة عدم تحديد";
+
+"Please_select_from_time" = "الرجاء اختيار بدايه الوقت ";
+
+"Please_select_to_time" = "الرجاء اختيار نهايه الوقت ";
+
+"Forecast_has_been_posted_successfully" = "تم نشر التوقعات بنجاح";
+
+"Message_has_been_posted_successfully" = "تم نشر الرسالة بنجاح";
+
+"PRSENTAGE_ERROR" ="السعر يجب ان يكون اكبر او اصغر بـ ١.٢٥٪ من السعر الحالي";
+
+"TRADE_STOCK_PRICE_ERROR" = "يوجد مشكلة بالسعر، رجاء حاول فى وقت لاحق";
+
+"Short_Time" = "قصيرة الأجل (6 ساعات)";
+"Long_Time" = "طويل الأجل (يومين)";
+"Please_add_quantity" = "يرجى إدخال الكمية";
+"Reset_password_link_has_been_sent_to_your_registered_email_address" = "تم إرسال رابط إعادة تعيين كلمة المرور إلى عنوان بريدك الإلكتروني المسجل";
+"The_password_has_been_changed_successfully" = "تم تغيير كلمه المرور بنجاح ";
+"You_can_not_unfollow_this_market" = "لا يمكنك إلغاء متابعة هذا السوق";
+"Your_message_has_been_sent_successfully"= "تم ارسال رسالتك بنجاح";
+"Please_add_the_details" = "الرجاء اضافه التفاصيل ";
+"Please_add_profile_image" = "من فضلك اضف لصورة للملف الشخصي";
+"You_can_not_unfololw_this_market" = "لا يمكنك إلغاء متابعة هذا السوق";
+"Select_atleast_one_market" = "فضلا اختر احد الاسواق ";
+"Select_atleast_one_stock" = "حدد سهم واحد على الأقل";
+"Select_atleast_one_currency" = "حدد العملة على الأقل";
+"Enter_the_amount" = "أدخل المبلغ";
+"LogOut" = "هل فعلا ترغب بتسجيل الخروج";
+"Yes" = "نعم فعلا";
+"No" = "لا";
+"Enter_paypal_name" = "الرجاء إدخال اسم بايبال";
+"Enter_paypal_email_or_mobile_number" = "ادخل الايميل او رقم الجوال";
+"price_indicator_success" = "سيتم تنبيهك اذا وصل السهم السعر المحدد";
+"Please_enter_your_full_name" = "ادخل الاسم كاملا";
+"Please_enter_your_bank_name" = "ادخل اسم البنك الذي تتعامل معه";
+"Please_enter_your_country" = "ادخل دولتك";
+"Please_enter_your_city" = "ادخل المدينه";
+"Please_enter_your_IBAN" = "الرجاء إدخال رقم الآيبان الخاص بك";
+"Please_enter_your_account_number" = "ادخل رقم حسابك ";
+"Stock_has_been_bought_successfully" = "تم شراء الأسهم بنجاح";
+"Stock_has_been_sold_successfully" = "تم بيع الأسهم بنجاح";
+"Profile_has_been_updated_uccessfully" = "تم تحديث ملفك الشخصي بنجاح";
+"Your_information_has_been_saved" = "ادخال بيانات";
+"data_not_available"  = "البيانات غير متوفرة";
+"Are_you_sure_you_want_to_Buy_the_stock" = "هل تريد بالتأكيد شراء السهم";
+"Are_you_sure_you_want_to_Sell_the_stock" = "هل أنت متأكد من أنك تريد بيع الأسهم";
+"No_Comments_on_this_Posts" = "لا توجد تعليقات";
+"No_Likes_on_this_post_yet" = "لا يوجد إبداءات إعجاب على هذه المشاركة حتى الآن.";
+"No_Blocked_Users" = "ليس هناك مستخدمون محظورون";
+"No_follewers_yet" = "لا فولويرز حتى الان";
+"Your_are_not_following_anyone" = "أنت لا تتبع أي شخص";
+
+"Trade_dummy_text" = "يمكنك شراء / بيع الأسهم على المحفظة الافتراضية الخاصة بك.\nملاحظة: يرجى ملاحظة أن سعر السهم ليست صحيحه ومتاخره ويتم استخدامها لأغراض المحفظه الافتراضيه فقط. يرجى عدم الاعتماد على أي سعر في هذه الصفحة لمعاملاتك الحقيقية.";
+
+"Price_Indicator_dummy_text" = "مكنك اختيار سهم لارسالك تنبيه اذا وصل سعر معين .ملاحظة: يرجى ملاحظة أن سعر السهم ليست صحيحه ومتاخره ويتم استخدامها لأغراض التجارب التقنيه فقط. يرجى عدم الاعتماد على هذه الخدمه لمعاملاتك الحقيقية.";
+
+"Waalet_dummy_text" = "هنا تجد المحفظة الافتراضية الخاصة بك، حيث يظهر المبلغ النقدي الافتراضي الخاصة بك والأسهم الخاصة بك.ملاحظة: يرجى ملاحظة أن هذه محفظة افتراضية حيث ينبغي أن تستخدم لأغراض التجريب والاختبار فقط. وبالإضافة إلى ذلك، لاحظ أن هذه المحفظة الافتراضية تسمح للمستخدمين الآخرين باستعراضها و معرفه العمليات التي تمت عليها.";
+
+"No_forecast_is_posted" = "لا توجد اي توقعات";
+
+"ago" = "قبل";
+
+"just_now" = "الأن";
+"mins_ago" = "دقيقة";
+"hrs_ago" = "ساعة";
+"hr_ago" = "ساعة";
+"Yesterday" = "الامس";
+"days_ago" = "مضت";
+"Weeks_ago" = "أسابيع";
+"Months_ago" = "اشهر";
+"Years_ago" = "مضت";
+"mobile_validation" = "يرجى التأكد من إدخال رقم جوال صالح";
+"has_posted" = "وقد نشرت";
+"followed_you" = "قام بمتابعتك";
+"has_commented_on_your_post" = "علق على منشورك";
+"liked_your_post" = "اعجب بمنشورك";
+"change_lang" = "من أجل تغيير اللغة نحن بحاجة إلى إغلاق التطبيق هل ترغب في الاستمرار؟
+";
+
+"pass_validation" = "كلمة المرور الجديدة وإعادة كتابة كلمة المرور الجديدة لا تتطابقان";
+
+"k_Do_you_want_delete_user" = "هل فعلا ترغب بالحذف";
+"k_Delete" = "نعم";
+"UNMUTE_NOTIFICATION_BTN" = "الغاء الصمت";
+
+
+"%d days ago" = "قبل %d أيام";
+
+"%d hours ago" = "قبل %d ساعات";
+
+"%d minutes ago" = "قبل %d دقائق";
+
+"%d months ago" = "قبل %d أشهر";
+
+"%d seconds ago" = "قبل %d ثوانٍ";
+
+"%d weeks ago" = "قبل %d أسابيع";
+
+"%d years ago" = "قبل %d سنوات";
+
+"A minute ago" = "قبل دقيقة";
+
+"An hour ago" = "قبل ساعة";
+
+"Just now" = "الأن";
+
+"Last month" = "الشهر الماضي";
+
+"Last week" = "الأسبوع الماضي";
+
+"Last year" = "العام الماضي";
+
+"Yesterday" = "أمس";
+
+"1 year ago" = "قبل عام";
+
+"1 month ago" = "قبل شهر";
+
+"1 week ago" = "قبل أسبوع";
+
+"1 day ago" = "قبل يوم";
+
+"This morning" = "هذا الصباح";
+
+"This afternoon" = "بعد ظهيرة اليوم";
+
+"Today" = "اليوم";
+
+"This week" = "هذا الأسبوع";
+
+"This month" = "هذا الشهر";
+
+"This year" = "هذا العام";
+
+// messages of post actions
+
+"comment_on_post" = "علق على هذا المنشور";
+"like_on_post" = "اعجب بهذا المنشور";
+"reply_on_comment" = "رد على تعليق";
+
+"FORECAST_SUCCESS" = "هذا التوقع تحقق";
+"FORECAST_FAILED" = "هذا التوقع لم يتحقق";
+

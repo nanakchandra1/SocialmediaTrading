@@ -1,0 +1,300 @@
+
+/* Class = "UILabel"; text = "Currency:"; ObjectID = "0IV-ef-xTW"; */
+"0IV-ef-xTW.text" = "Currency:";
+
+/* Class = "UILabel"; text = "15.75"; ObjectID = "0h0-qo-8wb"; */
+"0h0-qo-8wb.text" = "15.75";
+
+/* Class = "UILabel"; text = "Currency:"; ObjectID = "1wW-7Y-72N"; */
+"1wW-7Y-72N.text" = "Currency:";
+
+/* Class = "UILabel"; text = "M-NA.14m"; ObjectID = "2JV-8g-Msb"; */
+"2JV-8g-Msb.text" = "M-NA.14m";
+
+/* Class = "UILabel"; text = "Mohammad Ali Nasser"; ObjectID = "2sm-DY-sS7"; */
+"2sm-DY-sS7.text" = "Mohammad Ali Nasser";
+
+/* Class = "UILabel"; text = "Take Profit:"; ObjectID = "3Hg-07-KpC"; */
+"3Hg-07-KpC.text" = "Take Profit:";
+
+/* Class = "UILabel"; text = "Mohammad Ali Nasser"; ObjectID = "441-u4-1XC"; */
+"441-u4-1XC.text" = "Mohammad Ali Nasser";
+
+/* Class = "UILabel"; text = "Price:"; ObjectID = "4T6-A3-Iar"; */
+"4T6-A3-Iar.text" = "Price:";
+
+/* Class = "UILabel"; text = "Stock:"; ObjectID = "5SL-v3-Vas"; */
+"5SL-v3-Vas.text" = "Stock:";
+
+/* Class = "UILabel"; text = "Price when forecast"; ObjectID = "6hy-gE-iYK"; */
+"6hy-gE-iYK.text" = "Price when forecast";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "7uV-0U-vxb"; */
+"7uV-0U-vxb.text" = "20";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "8FC-1X-IqB"; */
+"8FC-1X-IqB.text" = "14/3/2017";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "8Nh-IZ-I1p"; */
+"8Nh-IZ-I1p.text" = "14/3/2017";
+
+/* Class = "UILabel"; text = "AI-Rajhi"; ObjectID = "9HU-S0-AMJ"; */
+"9HU-S0-AMJ.text" = "AI-Rajhi";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "9jz-Mx-lNc"; */
+"9jz-Mx-lNc.text" = "14/3/2017";
+
+/* Class = "UILabel"; text = "AI-Rajhi"; ObjectID = "ATs-eW-vfs"; */
+"ATs-eW-vfs.text" = "AI-Rajhi";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "Bao-so-ayH"; */
+"Bao-so-ayH.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "DJE-P1-mnQ"; */
+"DJE-P1-mnQ.text" = "Comment:";
+
+/* Class = "UILabel"; text = "Forecast Price:"; ObjectID = "Duo-cm-pKz"; */
+"Duo-cm-pKz.text" = "Forecast Price:";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "E8z-IG-hJ3"; */
+"E8z-IG-hJ3.text" = "20";
+
+/* Class = "UILabel"; text = "15.75"; ObjectID = "EWD-Av-rK7"; */
+"EWD-Av-rK7.text" = "15.75";
+
+/* Class = "UILabel"; text = "Forecast time"; ObjectID = "FWB-1l-jfB"; */
+"FWB-1l-jfB.text" = "Forecast time";
+
+/* Class = "UILabel"; text = "Mohammad Ali Nasser"; ObjectID = "FeB-JK-dqS"; */
+"FeB-JK-dqS.text" = "Mohammad Ali Nasser";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Gac-o9-QYo"; */
+"Gac-o9-QYo.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "Jz4-C4-vy0"; */
+"Jz4-C4-vy0.normalTitle" = "CLOSE";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "K12-YW-bMC"; */
+"K12-YW-bMC.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "KVh-Tl-cuM"; */
+"KVh-Tl-cuM.text" = "Comment:";
+
+/* Class = "UILabel"; text = "M-NA.14m"; ObjectID = "L1f-lw-afz"; */
+"L1f-lw-afz.text" = "M-NA.14m";
+
+/* Class = "UILabel"; text = "AI-Rajhi"; ObjectID = "LCG-21-Bua"; */
+"LCG-21-Bua.text" = "AI-Rajhi";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "LOq-Xe-iXG"; */
+"LOq-Xe-iXG.text" = "1.0";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "MOa-R7-CQM"; */
+"MOa-R7-CQM.text" = "Comment:";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "NoA-Ju-D2E"; */
+"NoA-Ju-D2E.text" = "0";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "Oic-n0-gVQ"; */
+"Oic-n0-gVQ.text" = "1.0";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "P5K-g6-g56"; */
+"P5K-g6-g56.text" = "14/3/2017";
+
+/* Class = "UILabel"; text = "From time:"; ObjectID = "PWY-Cw-RQE"; */
+"PWY-Cw-RQE.text" = "From time:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pav-oZ-kM1"; */
+"Pav-oZ-kM1.text" = "Label";
+
+/* Class = "UILabel"; text = "15.75"; ObjectID = "PmX-st-xvd"; */
+"PmX-st-xvd.text" = "15.75";
+
+/* Class = "UILabel"; text = "15.75"; ObjectID = "Q10-Wd-exg"; */
+"Q10-Wd-exg.text" = "15.75";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "Q4h-R6-TkM"; */
+"Q4h-R6-TkM.text" = "20";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "QFn-mV-yNc"; */
+"QFn-mV-yNc.text" = "14/3/2017";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Qoi-vu-Jkb"; */
+"Qoi-vu-Jkb.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "10/12/15"; ObjectID = "Qxg-yK-KQC"; */
+"Qxg-yK-KQC.text" = "10/12/15";
+
+/* Class = "UILabel"; text = "Stock:"; ObjectID = "R5V-F6-bn8"; */
+"R5V-F6-bn8.text" = "Stock:";
+
+/* Class = "UILabel"; text = "10/12/15"; ObjectID = "RZr-wj-G9d"; */
+"RZr-wj-G9d.text" = "10/12/15";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "Ryq-6w-RVk"; */
+"Ryq-6w-RVk.text" = "23";
+
+/* Class = "UILabel"; text = "Stop Loss:"; ObjectID = "SIb-6f-IMy"; */
+"SIb-6f-IMy.text" = "Stop Loss:";
+
+/* Class = "UILabel"; text = "10/12/15"; ObjectID = "SWA-zZ-r4O"; */
+"SWA-zZ-r4O.text" = "10/12/15";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "UG8-Ii-TOQ"; */
+"UG8-Ii-TOQ.text" = "0";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "VLf-or-nzb"; */
+"VLf-or-nzb.text" = "Comment:";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "ViM-yB-3sf"; */
+"ViM-yB-3sf.text" = "23";
+
+/* Class = "UILabel"; text = "Before:"; ObjectID = "VrF-qv-fxA"; */
+"VrF-qv-fxA.text" = "Before:";
+
+/* Class = "UILabel"; text = "M-NA.14m"; ObjectID = "XNr-ul-5St"; */
+"XNr-ul-5St.text" = "M-NA.14m";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "XZE-2G-ko5"; */
+"XZE-2G-ko5.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "Xmr-Zp-158"; */
+"Xmr-Zp-158.text" = "23";
+
+/* Class = "UILabel"; text = "Take Profit:"; ObjectID = "Yvq-nz-Goh"; */
+"Yvq-nz-Goh.text" = "Take Profit:";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "ZIb-Uw-Glj"; */
+"ZIb-Uw-Glj.text" = "20";
+
+/* Class = "UILabel"; text = "Mohammad Ali Nasser"; ObjectID = "Zks-CX-Q9i"; */
+"Zks-CX-Q9i.text" = "Mohammad Ali Nasser";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "ZlF-3g-7l6"; */
+"ZlF-3g-7l6.text" = "14/3/2017";
+
+/* Class = "UILabel"; text = "Price:"; ObjectID = "Zuk-T1-RX1"; */
+"Zuk-T1-RX1.text" = "Price:";
+
+/* Class = "UILabel"; text = "Before:"; ObjectID = "adk-7T-zy4"; */
+"adk-7T-zy4.text" = "Before:";
+
+/* Class = "UILabel"; text = "Then:"; ObjectID = "bJg-Ar-aJ6"; */
+"bJg-Ar-aJ6.text" = "Then:";
+
+/* Class = "UILabel"; text = "Forecast time"; ObjectID = "bcs-ar-mDL"; */
+"bcs-ar-mDL.text" = "Forecast time";
+
+/* Class = "UILabel"; text = "Stop Loss:"; ObjectID = "cBd-vf-xAW"; */
+"cBd-vf-xAW.text" = "Stop Loss:";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cSv-Hc-fEs"; */
+"cSv-Hc-fEs.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "dnv-fY-za6"; */
+"dnv-fY-za6.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "f9d-he-0uu"; */
+"f9d-he-0uu.text" = "23";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "gFM-60-28K"; */
+"gFM-60-28K.text" = "1.0";
+
+/* Class = "UILabel"; text = "Price when forecast"; ObjectID = "gWm-Hr-llN"; */
+"gWm-Hr-llN.text" = "Price when forecast";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "gkr-xn-xuc"; */
+"gkr-xn-xuc.text" = "14/3/2017";
+
+/* Class = "UILabel"; text = "Buy:"; ObjectID = "gq6-Li-RVg"; */
+"gq6-Li-RVg.text" = "Buy:";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "hEi-5p-5yI"; */
+"hEi-5p-5yI.text" = "0";
+
+/* Class = "UILabel"; text = "Before:"; ObjectID = "hHF-SV-d3u"; */
+"hHF-SV-d3u.text" = "Before:";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "hRH-IR-v5T"; */
+"hRH-IR-v5T.text" = "Comment:";
+
+/* Class = "UILabel"; text = "Mohammad Ali Nasser"; ObjectID = "hnj-k3-wMl"; */
+"hnj-k3-wMl.text" = "Mohammad Ali Nasser";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hqs-O0-hdo"; */
+"hqs-O0-hdo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "hy4-6H-NKl"; */
+"hy4-6H-NKl.normalTitle" = "CLOSE";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "id7-tq-5Fg"; */
+"id7-tq-5Fg.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "10/12/15"; ObjectID = "lXH-Zs-wLc"; */
+"lXH-Zs-wLc.text" = "10/12/15";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "lj3-g9-ucU"; */
+"lj3-g9-ucU.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Forecast time"; ObjectID = "n41-Ju-n4y"; */
+"n41-Ju-n4y.text" = "Forecast time";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oPi-Ke-QdX"; */
+"oPi-Ke-QdX.text" = "Label";
+
+/* Class = "UILabel"; text = "If:"; ObjectID = "oVH-6M-Fgj"; */
+"oVH-6M-Fgj.text" = "If:";
+
+/* Class = "UILabel"; text = "M-NA.14m"; ObjectID = "p0C-47-mOI"; */
+"p0C-47-mOI.text" = "M-NA.14m";
+
+/* Class = "UILabel"; text = "AI-Rajhi"; ObjectID = "pi8-qm-ZsX"; */
+"pi8-qm-ZsX.text" = "AI-Rajhi";
+
+/* Class = "UILabel"; text = "M-NA.14m"; ObjectID = "sNq-sN-Rw7"; */
+"sNq-sN-Rw7.text" = "M-NA.14m";
+
+/* Class = "UILabel"; text = "Price when forecast"; ObjectID = "sWH-6N-T4c"; */
+"sWH-6N-T4c.text" = "Price when forecast";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "tyA-Ao-mSV"; */
+"tyA-Ao-mSV.text" = "23";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "uYN-8K-Cfu"; */
+"uYN-8K-Cfu.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Forecast time"; ObjectID = "uZS-f2-Omw"; */
+"uZS-f2-Omw.text" = "Forecast time";
+
+/* Class = "UILabel"; text = "Before:"; ObjectID = "uge-wU-uVF"; */
+"uge-wU-uVF.text" = "Before:";
+
+/* Class = "UILabel"; text = "To time:"; ObjectID = "uxy-O5-vtY"; */
+"uxy-O5-vtY.text" = "To time:";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "v31-Je-sfC"; */
+"v31-Je-sfC.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Buy:"; ObjectID = "vmg-O2-Vvh"; */
+"vmg-O2-Vvh.text" = "Buy:";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "vvv-bN-OOv"; */
+"vvv-bN-OOv.text" = "14/3/2017";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "wNs-T7-nEV"; */
+"wNs-T7-nEV.text" = "20";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "xUS-2D-74c"; */
+"xUS-2D-74c.text" = "1.0";
+
+/* Class = "UILabel"; text = "Price when forecast"; ObjectID = "y11-xU-PoK"; */
+"y11-xU-PoK.text" = "Price when forecast";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "yIC-gH-Ilq"; */
+"yIC-gH-Ilq.text" = "20";
+
+/* Class = "UILabel"; text = "14/3/2017"; ObjectID = "zTY-vu-bur"; */
+"zTY-vu-bur.text" = "14/3/2017";
+
+/* Class = "UILabel"; text = "Before:"; ObjectID = "zb0-qS-gbL"; */
+"zb0-qS-gbL.text" = "Before:";

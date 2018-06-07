@@ -1,0 +1,540 @@
+/*
+ Localizable.strings
+ Mutadawel
+ 
+ Created by Appinventiv on 06/03/17.
+ Copyright © 2017 Appinventiv. All rights reserved.
+ */
+
+// Wallet Net Value
+"From" = "From";
+"To" = "To";
+"Sold" = "Sold";
+"Bought" = "Bought";
+"WalletBalance" = "Wallet Balance";
+"Share" = "share";
+"Shares" = "Shares";
+
+//price Indicator
+
+"CURRENT_PRICE_INDICATOR" = "Current Price Indicator";
+"LIST" = "List";
+"REQUIRED_STOCK_PRICE" = "Required Stock Price";
+// Login Screen
+
+"SIGN_IN" = "Sign In";
+"EMAIL_OR_MOB_NO_TEXTFIELD" = "Username";
+"PASSWORD" = "Password";
+"FORGOT_PASS_BTN" = "Forgot Password?";
+"CHANGE_LANG_BTN" = "English";
+
+// SIGNUP Screen
+
+"SIGN_UP" = "Sign Up";
+"NICK_NAME" = "Nick Name";
+"NAME" = "Name";
+"USER_NAME" = "Username";
+"CODE" = "Code";
+"MOBILE_NO" =  "Mobile Number";
+"EMAIL" = "Email";
+"PASSWORD" = "Password";
+"TERMS_AND_CONDITIONS"= "By signing up with Tridder you agree to our Terms and Conditions";
+"T_C" = "Terms and Conditions";
+
+// Choose Market Screen
+
+"CHOOSE_MARKET" = "Choose Market";
+"CHOOSE_OTHET_MARKET" = "Choose Other Markets";
+"NEXT" = "Next";
+"MARKET" = "Market";
+
+// Choose Stocks Screen
+
+"CHOOSE_STOCKS" = "Choose stock";
+"CHOOSE_a_STOCKS" = "Choose a stock";
+"SEARCH" = "Search";
+"NEXT" = "Next";
+"SELECT_ALL" = "Select All";
+"DESELECT_ALL" = "Deselect All";
+"CONTINUE" = "Continue";
+
+// Choose Currencies Screen
+
+"CHOOSE_CURRENCIES" = "Choose Currencies";
+"SEARCH" = "Search";
+
+// Choose Peopole Screen
+"CHOOSE_PEOPLE" = "Choose People";
+"START" = "Start";
+"FOLLOW" = "Follow";
+"RATE" = "Rate";
+"UNBLOCK" = "UNBLOCK";
+
+// Reset Password Screen
+"RESET_PASS" = "Reset Password";
+"SEND_NEW_PASS_BTN" = "Send me a new Password";
+
+// About Us Screen
+"ABOUT_US" = "About Us";
+"CONTACT_US" = "Contact Us";
+
+// Contact Us Screen
+"SUBJECT" = "Subject";
+"MESSAGE" = "Message";
+"DESCRIBE_ISSUE" = "Please describe your issue";
+"SEND_MSG_BTN" = "Send Message";
+"SEND_NEW_MSG" = "Start a new message";
+
+"DESCRIPTION_LABEL" = "Please complete this form below. The more information that you provide the quicker we will be able to respond with the correct information.\n\nWe never share your info with third party and your info will be protected and stored securely.";
+
+"DESC_LABEL" = "Please tell us who you are and enter a description of the problem, Thank you for helping us to serve better.";
+
+// Price Indicator Screen
+"PRICE_INDICATOR" = "Price Indicator";
+"STOCK_NAME" = "Stock Name";
+"PRICE" = "Price";
+"FORECASTED_PRICE" = "Forecast Price";
+"SUBMIT_BTN" = "Submit";
+"USER_LIST"  = "Following List";
+"VERSUS" = "Versus";
+
+
+// Profile screen
+
+"DONATE" = "Donate";
+"DONATE_TO" = "Donate to:";
+"POINTS" = "Points";
+"USER_PROFILE" = "User Profile";
+"PROFILE" = "Profile";
+"FOLLOWING" = "Following";
+"FOLLOWERS" = "Followers";
+"POSTS" = "Posts";
+"FOLLOW" = "Follow";
+"USER_BIOGRAPHY" = "USER_BIOGRAPHY";
+"EDIT_PROFILE" = "Edit Profile";
+"PROFIT_AND_LOST" = "Profit & Loss";
+"STATUS_OF_FORECAST" = "Status of Forecast";
+"WALLET_NET_VALUE" = "Wallet Net Value";
+"MARKET" = "Market";
+"CHANGE_PROFILE_PHOTO" = "Change Your Profile Photo";
+"UPGRADE_ACCOUNT" = "Account Information";
+"MY_PROFILE" = "My Profile";
+"ON" = "On";
+"OFF" = "Off";
+"ACCOUNT_NOTIFICATIONS" = "Account Notifications";
+"DESCRIPTION" = "Turn on notifications for this account. Either get notified for all Posts";
+"NOTI_DESCRIPTION" = "Now you’ll receive push notifications from this user";
+"NOTI_OFF_DESCRIPTION" = "Now you’ll not receive push notifications from this user";
+
+
+// Posts screen
+
+"POSTS" = "Posts";
+
+// Expectations screen
+
+"EXPECTATIONS" = "Forecast";
+"PENDING_EXPECTATION" = "Pending Forecast";
+"RIGHT_EXPECTATION" = "Right Forecast";
+"WRONG_EXPECTATION" = "Wrong Forecast";
+"CORRECT"= "CORRECT";
+"FAILED" = "FAILED";
+
+
+// Subscriptions screen
+"SUBSCRIPTIONS" = "Subscriptions";
+"CASH" = "Cash";
+"STOCKS" = "Stocks";
+"ADD_MORE_MONEY" = "Add More Money";
+"MY_DONATION" = "My Donations";
+"PAY_TO" = "Pay to";
+"PAYMENT_BTN" = "Payment";
+"JOINED" = "Joined";
+"TOTAL" = "Total";
+// My Stocks screen
+
+"COMMENT" = "Comments";
+"BUY" = "Buy";
+"CURRENT_PRICE" = "Current Price ";
+"QUANTITY_NO" = "Quantity (no. of shares)";
+"QUANTITY" = "Quantity";
+"CLOSE" = "CLOSE";
+"MY_STOCK_LIST" = "My Stocks List";
+
+// Messages screen
+
+"MESSAGES" = "Messages";
+"DELET_CONVERSATION_BTN" = "Delete Conversation";
+"MUTE_NOTIFICATION_BTN" = "Mute Notifications";
+
+
+// Notifications screen
+
+"NOTIFICATIONS" = "Notifications";
+"FOLLOWED" = "Followed";
+"YOU" = "You";
+"AGO" = "Ago";
+
+
+// Edit Profile Screen
+
+"EDIT_PROFILE" = "Edit Profile";
+"BIO" = "Bio";
+"SAVE_BTN" = "Save";
+"CHOOSE_PROFILE_PIC" = "Change your profile photo";
+
+
+
+// Home Screen
+"HOME" = "Home";
+"TIMELINE" = "TIMELINE";
+"TRADE" = "TRADE";
+"RANKING" = "RANKING";
+"STOCK" = "Stock";
+"BEFORE" = "Before";
+"FORECAST_PRICE" = "Forecast Price";
+"COMMENT" = "Comment";
+"FORECAST_TIME" = "Forecast Time";
+"PRICE_WHEN_FORECAST" = "Price When Forecast";
+"EDIT_POST" = "EDIT POST";
+"WALLET_NET_VALUE" = "Wallet Net Value";
+
+
+
+// TRADE Screen
+
+"BUY" = "Buy";
+"SELL" = "Sell";
+"SUBMIT" = "Submit";
+"BUY_SELL" = "Buy or Sell";
+"TYPE" = "Type";
+"STOP_LOSS" = "Stop Loss";
+"TAKE_PROFIT" = "Take Profit";
+"IF" = "If";
+"WITHIN" = "Within";
+"THEN" = "Then";
+"FROM_TIME" = "From";
+"TO_TIME" = "To";
+"OKAY" = "OKAY";
+"CHOOSE_IMAGE" = "Choose Image";
+"CAMERA" = "Camera";
+"GALLERY" = "Gallery";
+"CANCEL" = "Cancel";
+"HAPPENING" = "What's happening?";
+
+"ADMIN" = "Admin";
+//TRADE post
+
+"NUMBER_OF_STOCKS" = "number of stocks";
+"BUYING_SUCCEEDED" = "Bought";
+"SELLING_SUCCEEDED" = "Sold with Profit ";
+"SELLING_WITH_LOSS" = "Sold with Loss ";
+"JUST_SELLING" = "Sold without Profit or Loss";
+"PRICE_OF_ONE_STOCK" = "average price";
+"LAST_QUANTITY" = "previous quantity";
+"DATE_OF_FIRST_BUYING" = "date of first buy";
+"REAL_S" = "SAR";
+
+"i_purchased" = "I Purchased in";
+"i_sold" = "I Sold in";
+"WITH_PROFIT" = "with Profit";
+"PROFIT" = "Profit";
+
+"LOSS" = "With Loss";
+"FOR" = "For";
+"WITHOUT_PROFIT" = "Without Profit";
+"tradeStock" = "Stock";
+
+// Ranking Screen
+
+"WRONG" = "Wrong";
+"RIGHT" = "Right";
+"PROFIT&LOSS" = "Profit&Loss";
+"ALL" = "ALL";
+"BY_DELTA_FORECAST" = "By Delta Forecast";
+"BY_CORRECT_FORECAST" = "By correct forecast";
+"BY_FORECAST_PROFIT" = "By forecast profit";
+"BY_WALLET_PROFIT" = "By wallet profit";
+"BY_STOCK" = "By stock";
+
+
+// Popup Screen
+"HIDE_POST" = "Hide Post";
+"REPORT_POST" = "Report Post";
+"UNFOLLOW_USER" = "Unfollow User";
+"FOLLOW_USER" = "Follow User";
+
+"BLOCKED_USER" = "Blocked User";
+"BLOCK_USER" = "Block User";
+
+"FILTER_FOR_TIME" = "Filter by Time";
+"BEST_USER_FOR" = "Best users for";
+"WEEK" = "Week";
+"MONTH" = "Month";
+"YEAR" = "Year";
+"DONE" = "DONE";
+"BY_PROFIT" = "By Profit";
+"Change_Stop_Loss" = "Change Stop Loss";
+"Change_Take_Profit_Price" = "Change Take Profit Price";
+"Close_Order" = "Close Order";
+// add new post
+
+"ADD_NEW_FORECAST" = "Add New Forecast";
+"GENERAL" = "General";
+"FORECAST" = "Forecast";
+"CURRENCY" = "Currency";
+"CONDITIONAL_FORECAST" = "Conditions Forecast";
+"FOREX" = "Forex";
+"OR" = "or";
+"SEND" = "Send";
+"DURATION_FORECAST" = "Duration (in days)";
+
+// My Donation list
+"MY_DONATION_LIST" = "My Donations List";
+"AMOUNT" = "Amount";
+"Successfully_donated" = "Successfully donated";
+"TRANSFER_FROM_TRIDDER" = "Transfer from Tridder to Personal Account";
+"SUCCESSFULL_TRANSFER" = "The transfer was successfully";
+
+// Setting list
+
+"SETTINGS" = "Settings";
+"FOLLOWING_PEOPLE" = "Following People";
+"FOLLOWING_MARKETS" = "Following Markets";
+"CHANGE_PASSWORD" = "Change Password";
+"INVITE_FRIENDS" = "Invite Friends";
+"CHANGE_LANGUAGE" = "Change Language";
+"DISCLAIMER" = "Disclaimer";
+"Reply" = "Reply";
+
+//My Followers
+
+"MY_FOLLOWERS" = "Followers List";
+"MY_FOLLOWERS_LIST" = "My Followers List";
+
+//My Following
+
+"MY_FOLLOWING" = "Following";
+
+//SideMenu
+
+"WALLET" = "Wallet";
+"SUPPORT" = "Help";
+"SIGN_OUT" = "Sign Out";
+
+//CHANGE PASSWORD
+"CURRENT_PASSWORD" = "Current Password";
+"NEW_PASSWORD" = "New Password";
+"RE_TYPE_PASSWORD" = "Re Type Password";
+
+
+
+// Following Markets Screen
+"FOLLOWING_MARKET" = "Following Markets";
+"UNFOLLOW" = "Unfollow";
+
+
+//search
+
+"Search_Forecast" = "Search Forecast,Stock,Currency or People";
+"Search_Stocks" = "Search Stock";
+
+//PayPal
+
+"PayPaltitle" = "Enter PayPal or Personal Account";
+"Enter_Paypal_Info" = "Enter PayPal Information";
+"Enter_Personal_Account" = "Or Enter Personal Account";
+"Full_Name" = "Full Name";
+"Account_Name"= "Bank Name";
+"Country" = "Country";
+"City" = "City";
+"IBAN" = "IBAN";
+"Account_Number" = "Account Number";
+"Add_Paypal" = "Add PayPal Information";
+"PayPal_Name" = "PayPal Name";
+"PayPal_Email" = "PayPal Email or Mobile Number";
+"coming_soon" = "coming soon";
+
+//Toast Messages
+"Enter_User_Name" = "Please enter Email or Mobile Number or Username";
+"Enter_Password"     = "Please enter the password";
+"Please_enter_the_Name" = "Please enter your name";
+"Please_enter_the_subject" = "Please enter subject";
+"Please_enter_the_message" = "Please enter message";
+
+"Please_enter_the_UserName" = "Please enter a username";
+"username_must_5_char" = "Username must be more than 5 characters";
+
+"Please_enter_valid_UserName" = "Please enter valid UserName";
+"Please_enter_Country_Code" = "Please enter Country Code";
+"Please_enter_the_Mobile_Number" = "Please enter your mobile number";
+"Please_enter_valid_Email_Address" = "Please enter your email address";
+"Please_enter_the_Email_Address" = "Please enter Email Address";
+"Please_enter_Email_or_Mobile_number_or_Username" = "Please enter Email or Mobile number or Username";
+"Please_enter_the_Password" = "Please enter a password";
+"Password_must_be_more_than_7_characters"     = "Password must be more than 7 characters";
+"Password_should_not_be_more_than_20_characters" = "Password should not be more than 20 characters";
+"Camera_Unavailable"     = "Camera Unavailable";
+"Please_check_to_see_if_it_is_disconnected_or_in_use_by_another_application" = "Please check to see if it is disconnected or in use by another application";
+"Photo_Library_Unavailable" = "Photo Library Unavailable";
+"Please_check_to_see_if_device_settings_does_not_allow_photo_library_access" = "Please check to see if device settings doesn't allow photo library access";
+"Please_select_atleast_one_market" = "Please select at least one market";
+"Please_enter_Current_Password" = "Please enter Current Password";
+"Please_enter_New_Password" = "Please enter New Password";
+"Please_enter_Confirm_Password" = "Please enter Confirm Password";
+"Please_enter_bio"     = "Please enter your Bio";
+"Please_add_a_comment" = "Please add a comment";
+"write_a_comment" = "Write a comment...";
+"write_a_reply" = "Write a reply...";
+
+"Please_select_stock" = "Please select a stock";
+"Please_add_the_duration" = "Please enter the duration";
+"Please_add_the_price" = "Please enter the forecast price";
+"Please_select_currency" = "Please select a Currency pair";
+"Please_choose_buy_or_sell" = "Please choose buy or sell";
+"Please_fill_stop_loss"= "Please enter the Stop Loss amount";
+"Please_fill_take_profit" = "Please enter the Take Profit amount";
+"Please_select_type" = "Please select type";
+"Please_add_the_condition1" = "If condition is not selected";
+"Please_add_the_condition2" = "Than condition is not selected";
+"Please_add_a_price" = "Please enter a price";
+"price_indicator_success" = "You will be notified, once the stock hits the entered price";
+"Please_fill_within_field" = "Within condition is not selected";
+"Please_select_from_time" = "Please select from time";
+"Please_select_to_time" = "Please select to time";
+"Forecast_has_been_posted_successfully" = "Forecast has been posted successfully";
+"Message_has_been_posted_successfully" = "Message has been posted successfully";
+"PRSENTAGE_ERROR" = "the price should be greater or less Than 1.25% of the current price";
+
+"TRADE_STOCK_PRICE_ERROR" = "there is a problem with stock price, please try again later";
+
+"Short_Time" = "Short-Term (6 Hours)";
+"Long_Time" = "Long-Term (2 Days)";
+"Please_add_quantity" = "Please enter a quantity";
+"Reset_password_link_has_been_sent_to_your_registered_email_address" = "Reset password link has been sent to your registered email address";
+"The_password_has_been_changed_successfully" = "The password has been changed successfully";
+"You_can_not_unfollow_this_market" = "You can not unfollow this market";
+"Your_message_has_been_sent_successfully"= "Your message has been sent successfully";
+"Please_add_the_details" = "Please add the details";
+"Please_add_profile_image" = "Please add a profile image";
+"Select_atleast_one_market" = "Select at least market";
+"Select_atleast_one_stock" = "Select at least one stock";
+"Select_atleast_one_currency" = "Select at least currency";
+"Enter_the_amount" = "Enter the amount";
+"LogOut" = "Are you sure, you want to logout?";
+"Yes" = "Yes";
+"No" = "No";
+"Enter_paypal_name" = "Please enter a PayPal name";
+"Enter_paypal_email_or_mobile_number" = "Please enter a PayPal email or mobile number";
+
+"Please_enter_your_full_name" = "Please enter your full name";
+"Please_enter_your_bank_name" = "Please enter your bank name";
+"Please_enter_your_country" = "Please enter your country";
+"Please_enter_your_city" = "Please enter your city";
+"Please_enter_your_IBAN" = "Please enter your IBAN number";
+"Please_enter_your_account_number" = "Please enter your account number";
+"Stock_has_been_bought_successfully" = "Stock has been bought successfully";
+"Stock_has_been_sold_successfully" = "Stock has been sold successfully";
+"Profile_has_been_updated_uccessfully" = "Your profile has been updated successfully";
+"Your_information_has_been_saved" = "Your information has been saved";
+"data_not_available" = "Data not available";
+
+"Are_you_sure_you_want_to_Buy_the_stock" = "Are you sure, you want to buy the stock?";
+"Are_you_sure_you_want_to_Sell_the_stock" = "Are you sure, you want to sell the stock?";
+"No_Comments_on_this_Posts" = "No Comments on this Post";
+"No_Likes_on_this_post_yet" = "No Likes on this post yet.";
+"No_Blocked_Users" = "No Blocked Users";
+"F" = "No follewers yet";
+"Your_are_not_following_anyone" = "Your are not following anyone";
+
+"Trade_dummy_text" = "You can buy/sell stocks on your virtual wallet.\n Note: Please note that the stock prices are delayed and are used for demo purposes only. Please do not rely on any price on this page for your live transactions.";
+
+"Price_Indicator_dummy_text" = "You can select a stock to be notified when it reaches a specific price. \n Note: Please note that the stock prices are delayed and are used for demo purposes only. Please do not rely on any price on this page for your live transactions.";
+
+"Waalet_dummy_text" = "This is your virtual wallet, where it shows your Cash and your Stocks.\n Note: please notice that this is a virtual wallet where it should be used for demo and testing purposes only. In addition, note that this virtual wallet is exposed to other users in this ";
+
+"No_forecast_is_posted" = "No forecast is posted";
+"ago" = "ago";
+"just_now" = "just now";
+"mins_ago" = "mins";
+"hrs_ago" = "hrs";
+"hr_ago" = "hr";
+"Yesterday" = "Yesterday";
+"days_ago" = "days";
+"Weeks_ago" = "Weeks";
+"Months_ago" = "Months";
+"Years_ago" = "Years";
+"No_follewers_yet" = "No follewers yet";
+"mobile_validation" = "Please make sure to enter a valid mobile number";
+
+
+
+"has_posted" = "has posted";
+"followed_you" = "followed you";
+"has_commented_on_your_post" = "has commented on your post";
+"liked_your_post" = "liked your post";
+"change_lang" = "In order to change the Language we need to close the Application Do want to continue ?";
+
+"pass_validation" = "New Password and Re-Type New Password do not match";
+
+"k_Do_you_want_delete_user" = "Do you want to delete user?";
+"UNMUTE_NOTIFICATION_BTN" = "Unmute Notifications";
+"k_Delete" = "Delete";
+
+"%d days ago" = "%d days ago";
+
+"%d hours ago" = "%d hours ago";
+
+"%d minutes ago" = "%d minutes ago";
+
+"%d months ago" = "%d months ago";
+
+"%d seconds ago" = "%d seconds ago";
+
+"%d weeks ago" = "%d weeks ago";
+
+"%d years ago" = "%d years ago";
+
+"A minute ago" = "A minute ago";
+
+"An hour ago" = "An hour ago";
+
+"Just now" = "Just now";
+
+"Last month" = "Last month";
+
+"Last week" = "Last week";
+
+"Last year" = "Last year";
+
+"Yesterday" = "Yesterday";
+
+"1 year ago" = "1 year ago";
+
+"1 month ago" = "1 month ago";
+
+"1 week ago" = "1 week ago";
+
+"1 day ago" = "1 day ago";
+
+"This morning" = "This morning";
+
+"This afternoon" = "This afternoon";
+
+"Today" = "Today";
+
+"This week" = "This week";
+
+"This month" = "This month";
+
+"This year" = "This year";
+
+// messages of post actions
+
+"comment_on_post" = "commented on this post";
+"like_on_post" = "liked this post";
+"reply_on_comment" = "replyed on comment";
+
+"FORECAST_SUCCESS" = "Forecast Success";
+"FORECAST_FAILED" = "Forecast Failed";
+

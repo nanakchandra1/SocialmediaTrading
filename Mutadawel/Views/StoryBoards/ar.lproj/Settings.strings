@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "SABIC"; ObjectID = "HjB-gJ-6xZ"; */
+"HjB-gJ-6xZ.text" = "SABIC";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "Jig-dz-EuK"; */
+"Jig-dz-EuK.text" = "Followers";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "MuG-OO-oKC"; */
+"MuG-OO-oKC.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "XoF-Je-McX"; */
+"XoF-Je-McX.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Following Markets"; ObjectID = "cbk-ss-AAf"; */
+"cbk-ss-AAf.text" = "Following Markets";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "gPO-iL-Qm0"; */
+"gPO-iL-Qm0.text" = "Settings";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "y0D-0a-4X9"; */
+"y0D-0a-4X9.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "y5s-Pe-Sq3"; */
+"y5s-Pe-Sq3.text" = "Following";
+
+/* Class = "UILabel"; text = "100 Folllowers"; ObjectID = "yC1-0f-vpO"; */
+"yC1-0f-vpO.text" = "100 Folllowers";

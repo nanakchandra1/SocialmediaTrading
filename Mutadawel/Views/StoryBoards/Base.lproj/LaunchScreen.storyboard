@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="RobotoCondensed-Regular.ttf">
+            <string>RobotoCondensed-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_splash" translatesAutoresizingMaskIntoConstraints="NO" id="run-rn-cC9">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Version 1.6" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LRD-nJ-zie">
+                                <rect key="frame" x="16" y="502" width="288" height="16"/>
+                                <fontDescription key="fontDescription" name="RobotoCondensed-Regular" family="Roboto Condensed" pointSize="13"/>
+                                <color key="textColor" red="0.37647058820000001" green="0.49019607840000001" blue="0.5450980392" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="run-rn-cC9" firstAttribute="leading" secondItem="arl-pn-CW6" secondAttribute="leading" id="3Xu-6R-fIY"/>
+                            <constraint firstItem="arl-pn-CW6" firstAttribute="bottom" secondItem="LRD-nJ-zie" secondAttribute="bottom" constant="50" id="5yg-AQ-GBi"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="LRD-nJ-zie" secondAttribute="trailing" id="BUe-3a-BSL"/>
+                            <constraint firstItem="run-rn-cC9" firstAttribute="trailing" secondItem="arl-pn-CW6" secondAttribute="trailing" id="Iwz-ik-ynx"/>
+                            <constraint firstItem="LRD-nJ-zie" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" id="PMk-4m-8rm"/>
+                            <constraint firstAttribute="bottom" secondItem="run-rn-cC9" secondAttribute="bottom" id="egn-IY-PHw"/>
+                            <constraint firstItem="run-rn-cC9" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="mvk-uo-g21"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="arl-pn-CW6"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="ic_splash" width="320" height="569"/>
+    </resources>
+</document>

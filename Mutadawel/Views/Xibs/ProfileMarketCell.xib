@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="RobotoCondensed-Regular.ttf">
+            <string>RobotoCondensed-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="ProfileMarketCell" id="KGk-i7-Jjw" customClass="ProfileMarketCell" customModule="Mutadawel" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="394" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="394" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BLT-h6-52U">
+                        <rect key="frame" x="-8" y="0.0" width="402" height="42.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Profit &amp; Lost" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Fe-up-rXV">
+                                <rect key="frame" x="28" y="15" width="77.5" height="14"/>
+                                <fontDescription key="fontDescription" name="RobotoCondensed-Regular" family="Roboto Condensed" pointSize="14"/>
+                                <color key="textColor" red="0.1137254902" green="0.56862745100000001" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Forex Market" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="spf-f1-nKA">
+                                <rect key="frame" x="244" y="0.0" width="83" height="42.5"/>
+                                <fontDescription key="fontDescription" name="RobotoCondensed-Regular" family="Roboto Condensed" pointSize="14"/>
+                                <color key="textColor" red="0.1137254902" green="0.56862745100000001" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_settings_nextarrow" translatesAutoresizingMaskIntoConstraints="NO" id="dwC-c9-rXC">
+                                <rect key="frame" x="362" y="11.5" width="20" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="20" id="QKN-gf-I0s"/>
+                                    <constraint firstAttribute="height" constant="20" id="tf3-ES-vTG"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_choose_market_saudi" translatesAutoresizingMaskIntoConstraints="NO" id="0UO-PB-Oc1">
+                                <rect key="frame" x="337" y="14" width="25" height="15"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="15" id="M8a-UD-B8B"/>
+                                    <constraint firstAttribute="width" constant="25" id="ZMd-Fo-pwB"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pq9-rq-Exc">
+                                <rect key="frame" x="362" y="0.0" width="0.0" height="43"/>
+                                <fontDescription key="fontDescription" name="RobotoCondensed-Regular" family="Roboto Condensed" pointSize="14"/>
+                                <color key="textColor" red="0.1137254902" green="0.56862745100000001" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="0UO-PB-Oc1" firstAttribute="centerY" secondItem="dwC-c9-rXC" secondAttribute="centerY" id="0bT-yr-51t"/>
+                            <constraint firstItem="pq9-rq-Exc" firstAttribute="leading" secondItem="0UO-PB-Oc1" secondAttribute="trailing" id="12O-ho-p3p"/>
+                            <constraint firstItem="pq9-rq-Exc" firstAttribute="leading" secondItem="0UO-PB-Oc1" secondAttribute="trailing" id="3lL-Sf-6Sv"/>
+                            <constraint firstItem="0UO-PB-Oc1" firstAttribute="leading" secondItem="spf-f1-nKA" secondAttribute="trailing" constant="10" id="6tK-3A-4Wr"/>
+                            <constraint firstItem="4Fe-up-rXV" firstAttribute="top" secondItem="BLT-h6-52U" secondAttribute="top" constant="15" id="979-7A-Qw0"/>
+                            <constraint firstAttribute="bottom" secondItem="4Fe-up-rXV" secondAttribute="bottom" constant="14" id="MX8-L3-KXP"/>
+                            <constraint firstItem="dwC-c9-rXC" firstAttribute="leading" secondItem="pq9-rq-Exc" secondAttribute="trailing" id="XgY-cO-jBJ"/>
+                            <constraint firstItem="dwC-c9-rXC" firstAttribute="centerY" secondItem="BLT-h6-52U" secondAttribute="centerY" id="asF-V5-wwP"/>
+                            <constraint firstItem="spf-f1-nKA" firstAttribute="top" secondItem="BLT-h6-52U" secondAttribute="top" id="cxn-Qd-tnG"/>
+                            <constraint firstItem="4Fe-up-rXV" firstAttribute="leading" secondItem="BLT-h6-52U" secondAttribute="leadingMargin" constant="20" id="jh5-Fa-o1d"/>
+                            <constraint firstAttribute="bottom" secondItem="pq9-rq-Exc" secondAttribute="bottom" id="kV8-f1-rpY"/>
+                            <constraint firstAttribute="bottom" secondItem="spf-f1-nKA" secondAttribute="bottom" id="mad-1c-PJK"/>
+                            <constraint firstItem="pq9-rq-Exc" firstAttribute="top" secondItem="BLT-h6-52U" secondAttribute="top" id="wJG-fR-pGw"/>
+                            <constraint firstAttribute="trailing" secondItem="dwC-c9-rXC" secondAttribute="trailing" constant="20" id="wis-da-Q1x"/>
+                        </constraints>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VFn-HK-wCK">
+                        <rect key="frame" x="20" y="42.5" width="354" height="1"/>
+                        <color key="backgroundColor" red="0.37647058820000001" green="0.49019607840000001" blue="0.5450980392" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="N4b-8N-fEK"/>
+                        </constraints>
+                    </view>
+                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qot-hW-Tjo">
+                        <rect key="frame" x="-4" y="0.0" width="402" height="43"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="VFn-HK-wCK" secondAttribute="trailing" constant="20" id="0SU-4k-eCg"/>
+                    <constraint firstAttribute="bottom" secondItem="BLT-h6-52U" secondAttribute="bottom" constant="1" id="2ha-r2-vpX"/>
+                    <constraint firstItem="VFn-HK-wCK" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="20" id="Bbc-Qp-h42"/>
+                    <constraint firstAttribute="bottom" secondItem="VFn-HK-wCK" secondAttribute="bottom" id="Fvm-kc-ten"/>
+                    <constraint firstItem="BLT-h6-52U" firstAttribute="leadingMargin" secondItem="H2p-sc-9uM" secondAttribute="leading" id="SJI-Mz-xMB"/>
+                    <constraint firstItem="BLT-h6-52U" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="WNO-5e-mud"/>
+                    <constraint firstAttribute="trailing" secondItem="BLT-h6-52U" secondAttribute="trailing" id="eui-1E-u7e"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="forwordArrowImg" destination="dwC-c9-rXC" id="TEQ-8y-KZ0"/>
+                <outlet property="marketNameLbl" destination="4Fe-up-rXV" id="9q7-GX-zuJ"/>
+                <outlet property="marketSymbol" destination="0UO-PB-Oc1" id="bSG-qu-2WQ"/>
+                <outlet property="marketSymbolWidthConstant" destination="ZMd-Fo-pwB" id="w4P-Dm-99I"/>
+                <outlet property="marketValueLbl" destination="spf-f1-nKA" id="q8y-bG-EMM"/>
+                <outlet property="moreMarketLbl" destination="pq9-rq-Exc" id="84z-c8-uUA"/>
+                <outlet property="selectMarketBtn" destination="qot-hW-Tjo" id="WTh-Q9-6G9"/>
+                <outlet property="seperatorView" destination="VFn-HK-wCK" id="YBU-P3-PIG"/>
+            </connections>
+            <point key="canvasLocation" x="122" y="74"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_choose_market_saudi" width="52" height="35"/>
+        <image name="ic_settings_nextarrow" width="7" height="11"/>
+    </resources>
+</document>
